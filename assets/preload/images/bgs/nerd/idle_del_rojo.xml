@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="idle del rojo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle el rojo0000" x="0" y="0" width="409" height="813" frameX="-10" frameY="-23" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0001" x="0" y="0" width="409" height="813" frameX="-10" frameY="-23" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0002" x="409" y="0" width="413" height="816" frameX="0" frameY="-20" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0003" x="409" y="0" width="413" height="816" frameX="0" frameY="-20" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0004" x="822" y="0" width="397" height="828" frameX="-35" frameY="-8" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0005" x="822" y="0" width="397" height="828" frameX="-35" frameY="-8" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0006" x="1219" y="0" width="383" height="835" frameX="-57" frameY="-1" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0007" x="1219" y="0" width="383" height="835" frameX="-57" frameY="-1" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0008" x="1602" y="0" width="389" height="836" frameX="-57" frameY="0" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0009" x="1602" y="0" width="389" height="836" frameX="-57" frameY="0" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0010" x="0" y="836" width="390" height="835" frameX="-57" frameY="-1" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0011" x="0" y="836" width="390" height="835" frameX="-57" frameY="-1" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0012" x="0" y="836" width="390" height="835" frameX="-57" frameY="-1" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0013" x="0" y="836" width="390" height="835" frameX="-57" frameY="-1" frameWidth="447" frameHeight="836"/>
+	<SubTexture name="idle el rojo0014" x="0" y="836" width="390" height="835" frameX="-57" frameY="-1" frameWidth="447" frameHeight="836"/>
+</TextureAtlas>

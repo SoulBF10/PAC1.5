@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="los_negros_de_atras.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="los negros de atras0000" x="0" y="0" width="1066" height="819" frameX="-13" frameY="-24" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0001" x="0" y="0" width="1066" height="819" frameX="-13" frameY="-24" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0002" x="1066" y="0" width="1075" height="819" frameX="0" frameY="-24" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0003" x="1066" y="0" width="1075" height="819" frameX="0" frameY="-24" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0004" x="2141" y="0" width="1092" height="834" frameX="0" frameY="-9" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0005" x="2141" y="0" width="1092" height="834" frameX="0" frameY="-9" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0006" x="3233" y="0" width="1103" height="839" frameX="0" frameY="-4" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0007" x="3233" y="0" width="1103" height="839" frameX="0" frameY="-4" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0008" x="4336" y="0" width="1109" height="840" frameX="-2" frameY="-3" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0009" x="4336" y="0" width="1109" height="840" frameX="-2" frameY="-3" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0010" x="5445" y="0" width="1085" height="842" frameX="-25" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0011" x="5445" y="0" width="1085" height="842" frameX="-25" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0012" x="5445" y="0" width="1085" height="842" frameX="-25" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0013" x="5445" y="0" width="1085" height="842" frameX="-25" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0014" x="6530" y="0" width="1065" height="842" frameX="-45" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0015" x="6530" y="0" width="1065" height="842" frameX="-45" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0016" x="0" y="842" width="1015" height="842" frameX="-95" frameY="0" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0017" x="0" y="842" width="1015" height="842" frameX="-95" frameY="0" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0018" x="1015" y="842" width="1015" height="842" frameX="-95" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0019" x="1015" y="842" width="1015" height="842" frameX="-95" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0020" x="2030" y="842" width="1016" height="842" frameX="-95" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0021" x="2030" y="842" width="1016" height="842" frameX="-95" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0022" x="3046" y="842" width="1017" height="842" frameX="-93" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0023" x="3046" y="842" width="1017" height="842" frameX="-93" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0024" x="4063" y="842" width="1084" height="842" frameX="-26" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0025" x="4063" y="842" width="1084" height="842" frameX="-26" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0026" x="5147" y="842" width="1085" height="842" frameX="-26" frameY="-1" frameWidth="1111" frameHeight="843"/>
+	<SubTexture name="los negros de atras0027" x="5147" y="842" width="1085" height="842" frameX="-26" frameY="-1" frameWidth="1111" frameHeight="843"/>
+</TextureAtlas>
