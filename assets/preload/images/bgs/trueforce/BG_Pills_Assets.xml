@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG_Pills_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pills Glowing instancia 10000" x="10" y="10" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10001" x="1534" y="10" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10002" x="10" y="323" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10003" x="1534" y="323" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10004" x="10" y="636" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10005" x="1534" y="636" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10006" x="10" y="949" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10007" x="1534" y="949" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10008" x="10" y="1262" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10009" x="1534" y="1262" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10010" x="1534" y="1262" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10011" x="10" y="1575" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10012" x="1534" y="1262" width="1514" height="303"/>
+	<SubTexture name="Pills Glowing instancia 10013" x="1534" y="1262" width="1514" height="303"/>
+</TextureAtlas>

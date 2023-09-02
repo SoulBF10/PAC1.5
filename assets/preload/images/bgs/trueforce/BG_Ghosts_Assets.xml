@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG_Ghosts_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ghosts Idles instancia 10000" x="10" y="10" width="1454" height="465" frameX="-6" frameY="-40" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10001" x="10" y="10" width="1454" height="465" frameX="-6" frameY="-40" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10002" x="10" y="485" width="1466" height="466" frameX="0" frameY="-42" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10003" x="10" y="485" width="1466" height="466" frameX="0" frameY="-42" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10004" x="10" y="961" width="1469" height="472" frameX="-3" frameY="-19" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10005" x="10" y="961" width="1469" height="472" frameX="-3" frameY="-19" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10006" x="10" y="1443" width="1468" height="480" frameX="-7" frameY="-8" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10007" x="10" y="1443" width="1468" height="480" frameX="-7" frameY="-8" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10008" x="10" y="1933" width="1468" height="488" frameX="-6" frameY="0" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10009" x="10" y="1933" width="1468" height="488" frameX="-6" frameY="0" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10010" x="10" y="1933" width="1468" height="488" frameX="-6" frameY="0" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10011" x="10" y="1933" width="1468" height="488" frameX="-6" frameY="0" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10012" x="10" y="1933" width="1468" height="488" frameX="-6" frameY="0" frameWidth="1475" frameHeight="508"/>
+	<SubTexture name="Ghosts Idles instancia 10013" x="10" y="1933" width="1468" height="488" frameX="-6" frameY="0" frameWidth="1475" frameHeight="508"/>
+</TextureAtlas>
