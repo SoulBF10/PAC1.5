@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fondofever.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FONDO instancia 10000" x="0" y="0" width="3096" height="1771" pivotX="1004.3" pivotY="326.95"/>
+</TextureAtlas>

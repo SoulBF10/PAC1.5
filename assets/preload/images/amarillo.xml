@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amarillo.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cosaamrilla0000" x="0" y="0" width="1284" height="735" pivotX="0" pivotY="0"/>
+</TextureAtlas>

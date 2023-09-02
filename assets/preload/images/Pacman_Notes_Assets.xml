@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pacman_Notes_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down arrow blue instancia 10000" x="10" y="10" width="141" height="152"/>
+	<SubTexture name="down arrow confirm instancia 10000" x="161" y="10" width="276" height="289" frameX="-21" frameY="-21" frameWidth="318" frameHeight="331"/>
+	<SubTexture name="down arrow confirm instancia 10001" x="447" y="10" width="276" height="289" frameX="-21" frameY="-21" frameWidth="318" frameHeight="331"/>
+	<SubTexture name="down arrow confirm instancia 10002" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10003" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10004" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10005" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10006" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10007" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10008" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10009" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10010" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10011" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10012" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow confirm instancia 10013" x="733" y="10" width="318" height="331"/>
+	<SubTexture name="down arrow instancia 10000" x="1061" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10000" x="1226" y="10" width="149" height="157" frameX="-3" frameY="-3" frameWidth="155" frameHeight="164"/>
+	<SubTexture name="down arrow touch instancia 10001" x="1226" y="10" width="149" height="157" frameX="-3" frameY="-3" frameWidth="155" frameHeight="164"/>
+	<SubTexture name="down arrow touch instancia 10002" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10003" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10004" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10005" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10006" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10007" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10008" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10009" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10010" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10011" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10012" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="down arrow touch instancia 10013" x="1385" y="10" width="155" height="164"/>
+	<SubTexture name="left arrow confirm instancia 10000" x="1550" y="10" width="283" height="270" frameX="-23" frameY="-23" frameWidth="329" frameHeight="317"/>
+	<SubTexture name="left arrow confirm instancia 10001" x="10" y="351" width="283" height="270" frameX="-23" frameY="-23" frameWidth="329" frameHeight="317"/>
+	<SubTexture name="left arrow confirm instancia 10002" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10003" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10004" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10005" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10006" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10007" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10008" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10009" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10010" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10011" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10012" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow confirm instancia 10013" x="303" y="351" width="329" height="317"/>
+	<SubTexture name="left arrow instancia 10000" x="642" y="351" width="164" height="155"/>
+	<SubTexture name="left arrow pink instancia 10000" x="816" y="351" width="152" height="141"/>
+	<SubTexture name="left arrow touch instancia 10000" x="978" y="351" width="158" height="149" frameX="-3" frameY="-3" frameWidth="163" frameHeight="155"/>
+	<SubTexture name="left arrow touch instancia 10001" x="978" y="351" width="158" height="149" frameX="-3" frameY="-3" frameWidth="163" frameHeight="155"/>
+	<SubTexture name="left arrow touch instancia 10002" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10003" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10004" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10005" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10006" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10007" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10008" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10009" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10010" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10011" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10012" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="left arrow touch instancia 10013" x="1146" y="351" width="163" height="155"/>
+	<SubTexture name="other thin blue instancia 10000" x="1319" y="351" width="56" height="45"/>
+	<SubTexture name="other thing pink instancia 10000" x="1385" y="351" width="55" height="45"/>
+	<SubTexture name="other thing red instancia 10000" x="1450" y="351" width="55" height="45"/>
+	<SubTexture name="other thing yellow instancia 10000" x="1515" y="351" width="56" height="45"/>
+	<SubTexture name="right arrow confirm instancia 10000" x="1581" y="351" width="297" height="286" frameX="-21" frameY="-21" frameWidth="338" frameHeight="329"/>
+	<SubTexture name="right arrow confirm instancia 10001" x="10" y="678" width="297" height="286" frameX="-21" frameY="-21" frameWidth="338" frameHeight="329"/>
+	<SubTexture name="right arrow confirm instancia 10002" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10003" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10004" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10005" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10006" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10007" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10008" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10009" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10010" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10011" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10012" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow confirm instancia 10013" x="317" y="678" width="338" height="329"/>
+	<SubTexture name="right arrow instancia 10000" x="665" y="678" width="163" height="154"/>
+	<SubTexture name="right arrow red instancia 10000" x="838" y="678" width="152" height="141"/>
+	<SubTexture name="right arrow touch instancia 10000" x="1000" y="678" width="157" height="149" frameX="-4" frameY="-3" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="right arrow touch instancia 10001" x="1000" y="678" width="157" height="149" frameX="-4" frameY="-3" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="right arrow touch instancia 10002" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10003" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10004" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10005" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10006" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10007" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10008" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10009" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10010" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10011" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10012" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="right arrow touch instancia 10013" x="1167" y="678" width="164" height="155"/>
+	<SubTexture name="thing blue instancia 10000" x="1341" y="678" width="56" height="67"/>
+	<SubTexture name="thing pink instancia 10000" x="1407" y="678" width="56" height="67"/>
+	<SubTexture name="thing red instancia 10000" x="1473" y="678" width="56" height="67"/>
+	<SubTexture name="thing yellow instancia 10000" x="1539" y="678" width="57" height="67"/>
+	<SubTexture name="up arrow confirm instancia 10000" x="1606" y="678" width="274" height="288" frameX="-20" frameY="-18" frameWidth="314" frameHeight="324"/>
+	<SubTexture name="up arrow confirm instancia 10001" x="10" y="1017" width="274" height="288" frameX="-20" frameY="-18" frameWidth="314" frameHeight="324"/>
+	<SubTexture name="up arrow confirm instancia 10002" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10003" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10004" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10005" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10006" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10007" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10008" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10009" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10010" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10011" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10012" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow confirm instancia 10013" x="294" y="1017" width="314" height="324"/>
+	<SubTexture name="up arrow instancia 10000" x="618" y="1017" width="155" height="164"/>
+	<SubTexture name="up arrow touch instancia 10000" x="783" y="1017" width="149" height="157" frameX="-3" frameY="-3" frameWidth="155" frameHeight="163"/>
+	<SubTexture name="up arrow touch instancia 10001" x="783" y="1017" width="149" height="157" frameX="-3" frameY="-3" frameWidth="155" frameHeight="163"/>
+	<SubTexture name="up arrow touch instancia 10002" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10003" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10004" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10005" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10006" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10007" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10008" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10009" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10010" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10011" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10012" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow touch instancia 10013" x="942" y="1017" width="155" height="163"/>
+	<SubTexture name="up arrow yellow instancia 10000" x="1107" y="1017" width="141" height="152"/>
+</TextureAtlas>
