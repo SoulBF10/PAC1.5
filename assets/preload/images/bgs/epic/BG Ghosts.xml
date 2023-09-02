@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ghosts_BG_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG Ghosts0000" x="10" y="10" width="2114" height="667" frameX="-5" frameY="-4" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0001" x="10" y="10" width="2114" height="667" frameX="-5" frameY="-4" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0002" x="10" y="687" width="2123" height="665" frameX="0" frameY="-6" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0003" x="10" y="687" width="2123" height="665" frameX="0" frameY="-6" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0004" x="10" y="1362" width="2104" height="658" frameX="-10" frameY="-4" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0005" x="10" y="1362" width="2104" height="658" frameX="-10" frameY="-4" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0006" x="10" y="2030" width="2086" height="639" frameX="-19" frameY="-1" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0007" x="10" y="2030" width="2086" height="639" frameX="-19" frameY="-1" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0008" x="10" y="2679" width="2083" height="636" frameX="-20" frameY="0" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0009" x="10" y="2679" width="2083" height="636" frameX="-20" frameY="0" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0010" x="10" y="2679" width="2083" height="636" frameX="-20" frameY="0" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0011" x="10" y="2679" width="2083" height="636" frameX="-20" frameY="0" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0012" x="10" y="2679" width="2083" height="636" frameX="-20" frameY="0" frameWidth="2123" frameHeight="671"/>
+	<SubTexture name="BG Ghosts0013" x="10" y="2679" width="2083" height="636" frameX="-20" frameY="0" frameWidth="2123" frameHeight="671"/>
+</TextureAtlas>

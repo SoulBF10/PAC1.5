@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ghosts_Reflection_(Overlay)_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ghosts Reflection0000" x="10" y="10" width="2118" height="635" frameX="-4" frameY="0" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0001" x="10" y="10" width="2118" height="635" frameX="-4" frameY="0" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0002" x="10" y="655" width="2127" height="639" frameX="0" frameY="0" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0003" x="10" y="655" width="2127" height="639" frameX="0" frameY="0" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0004" x="10" y="1304" width="2109" height="649" frameX="-9" frameY="-3" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0005" x="10" y="1304" width="2109" height="649" frameX="-9" frameY="-3" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0006" x="10" y="1963" width="2091" height="658" frameX="-18" frameY="-18" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0007" x="10" y="1963" width="2091" height="658" frameX="-18" frameY="-18" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0008" x="10" y="2631" width="2087" height="651" frameX="-20" frameY="-28" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0009" x="10" y="2631" width="2087" height="651" frameX="-20" frameY="-28" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0010" x="10" y="2631" width="2087" height="651" frameX="-20" frameY="-28" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0011" x="10" y="2631" width="2087" height="651" frameX="-20" frameY="-28" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0012" x="10" y="2631" width="2087" height="651" frameX="-20" frameY="-28" frameWidth="2127" frameHeight="679"/>
+	<SubTexture name="Ghosts Reflection0013" x="10" y="2631" width="2087" height="651" frameX="-20" frameY="-28" frameWidth="2127" frameHeight="679"/>
+</TextureAtlas>
