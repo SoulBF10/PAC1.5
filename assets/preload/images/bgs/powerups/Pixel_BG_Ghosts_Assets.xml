@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pixel_BG_Ghosts_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG Ghosts Idle0000" x="10" y="10" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0001" x="10" y="10" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0002" x="114" y="10" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0003" x="114" y="10" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0004" x="10" y="51" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0005" x="10" y="51" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0006" x="114" y="51" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0007" x="114" y="51" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0008" x="114" y="51" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0009" x="10" y="92" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0010" x="10" y="92" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0011" x="10" y="92" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0012" x="114" y="51" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0013" x="114" y="51" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0014" x="114" y="51" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0015" x="10" y="92" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0016" x="10" y="92" width="94" height="31"/>
+	<SubTexture name="BG Ghosts Idle0017" x="10" y="92" width="94" height="31"/>
+</TextureAtlas>

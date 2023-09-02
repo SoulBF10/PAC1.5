@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="orange.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="orange0000" x="5" y="5" width="260" height="305" frameX="0" frameY="-21" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0001" x="5" y="5" width="260" height="305" frameX="0" frameY="-21" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0002" x="270" y="5" width="256" height="306" frameX="0" frameY="-15" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0003" x="270" y="5" width="256" height="306" frameX="0" frameY="-15" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0004" x="531" y="5" width="247" height="308" frameX="-4" frameY="-8" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0005" x="531" y="5" width="247" height="308" frameX="-4" frameY="-8" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0006" x="783" y="5" width="244" height="312" frameX="-5" frameY="-1" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0007" x="783" y="5" width="244" height="312" frameX="-5" frameY="-1" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0008" x="1032" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0009" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0010" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0011" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0012" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0013" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0014" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0015" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0016" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0017" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0018" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0019" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0020" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0021" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0022" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0023" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0024" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0025" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0026" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0027" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0028" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange0029" x="1282" y="5" width="245" height="313" frameX="-5" frameY="0" frameWidth="260" frameHeight="326"/>
+	<SubTexture name="orange transform0000" x="1532" y="5" width="260" height="305" frameX="-324" frameY="-172" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0001" x="1532" y="5" width="260" height="305" frameX="-324" frameY="-172" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0002" x="5" y="323" width="261" height="307" frameX="-324" frameY="-173" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0003" x="5" y="323" width="261" height="307" frameX="-324" frameY="-173" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0004" x="271" y="323" width="264" height="306" frameX="-315" frameY="-178" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0005" x="271" y="323" width="264" height="306" frameX="-315" frameY="-178" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0006" x="540" y="323" width="264" height="314" frameX="-308" frameY="-180" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0007" x="540" y="323" width="264" height="314" frameX="-308" frameY="-180" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0008" x="809" y="323" width="250" height="301" frameX="-296" frameY="-188" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0009" x="809" y="323" width="250" height="301" frameX="-296" frameY="-188" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0010" x="1064" y="323" width="280" height="307" frameX="-296" frameY="-167" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0011" x="1064" y="323" width="280" height="307" frameX="-296" frameY="-167" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0012" x="1349" y="323" width="285" height="307" frameX="-297" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0013" x="1349" y="323" width="285" height="307" frameX="-297" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0014" x="1639" y="323" width="286" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0015" x="1639" y="323" width="286" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0016" x="5" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0017" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0018" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0019" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0020" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0021" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0022" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0023" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0024" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0025" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0026" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0027" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0028" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0029" x="298" y="642" width="288" height="306" frameX="-298" frameY="-162" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0030" x="591" y="642" width="288" height="306" frameX="-298" frameY="-163" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0031" x="591" y="642" width="288" height="306" frameX="-298" frameY="-163" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0032" x="884" y="642" width="291" height="305" frameX="-298" frameY="-167" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0033" x="884" y="642" width="291" height="305" frameX="-298" frameY="-167" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0034" x="1180" y="642" width="289" height="302" frameX="-297" frameY="-180" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0035" x="1180" y="642" width="289" height="302" frameX="-297" frameY="-180" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0036" x="1474" y="642" width="284" height="305" frameX="-296" frameY="-204" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0037" x="1474" y="642" width="284" height="305" frameX="-296" frameY="-204" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0038" x="5" y="953" width="312" height="282" frameX="-237" frameY="-226" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0039" x="322" y="953" width="295" height="296" frameX="-210" frameY="-202" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0040" x="622" y="953" width="217" height="320" frameX="-185" frameY="-164" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0041" x="622" y="953" width="217" height="320" frameX="-185" frameY="-164" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0042" x="844" y="953" width="311" height="337" frameX="-85" frameY="-97" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0043" x="844" y="953" width="311" height="337" frameX="-85" frameY="-97" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0044" x="1160" y="953" width="293" height="354" frameX="0" frameY="0" frameWidth="589" frameHeight="509"/>
+	<SubTexture name="orange transform0045" x="1160" y="953" width="293" height="354" frameX="0" frameY="0" frameWidth="589" frameHeight="509"/>
+</TextureAtlas>
