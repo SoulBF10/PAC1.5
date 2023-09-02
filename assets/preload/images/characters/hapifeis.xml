@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hapifeis.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hapi feis idel0000" x="0" y="0" width="1168" height="1096" pivotX="-196.5" pivotY="-219.85" frameX="0" frameY="-40" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0001" x="0" y="0" width="1168" height="1096" frameX="0" frameY="-40" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0002" x="1168" y="0" width="1153" height="1109" frameX="-7" frameY="-27" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0003" x="1168" y="0" width="1153" height="1109" frameX="-7" frameY="-27" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0004" x="2321" y="0" width="1134" height="1128" frameX="-17" frameY="-8" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0005" x="2321" y="0" width="1134" height="1128" frameX="-17" frameY="-8" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0006" x="3455" y="0" width="1126" height="1132" frameX="-21" frameY="-4" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0007" x="3455" y="0" width="1126" height="1132" frameX="-21" frameY="-4" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0008" x="4581" y="0" width="1120" height="1136" frameX="-24" frameY="0" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0009" x="4581" y="0" width="1120" height="1136" frameX="-24" frameY="0" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0010" x="4581" y="0" width="1120" height="1136" frameX="-24" frameY="0" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0011" x="4581" y="0" width="1120" height="1136" frameX="-24" frameY="0" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0012" x="4581" y="0" width="1120" height="1136" frameX="-24" frameY="0" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis idel0013" x="4581" y="0" width="1120" height="1136" frameX="-24" frameY="0" frameWidth="1168" frameHeight="1136"/>
+	<SubTexture name="hapi feis note ap0000" x="5701" y="0" width="1153" height="1207" pivotX="-197.25" pivotY="-146" frameX="-4" frameY="0" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0001" x="5701" y="0" width="1153" height="1207" frameX="-4" frameY="0" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0002" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0003" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0004" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0005" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0006" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0007" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0008" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0009" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0010" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0011" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0012" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note ap0013" x="6854" y="0" width="1161" height="1203" frameX="0" frameY="-5" frameWidth="1161" frameHeight="1208"/>
+	<SubTexture name="hapi feis note down0000" x="0" y="1207" width="1193" height="1024" pivotX="-207.85" pivotY="-320.9" frameX="0" frameY="-10" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0001" x="0" y="1207" width="1193" height="1024" frameX="0" frameY="-10" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0002" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0003" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0004" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0005" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0006" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0007" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0008" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0009" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0010" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0011" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0012" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note down0013" x="1193" y="1207" width="1167" height="1034" frameX="-13" frameY="0" frameWidth="1193" frameHeight="1034"/>
+	<SubTexture name="hapi feis note left0000" x="2360" y="1207" width="1187" height="1128" pivotX="-64.35" pivotY="-228" frameX="0" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0001" x="2360" y="1207" width="1187" height="1128" frameX="0" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0002" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0003" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0004" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0005" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0006" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0007" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0008" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0009" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0010" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0011" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0012" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note left0013" x="3547" y="1207" width="1186" height="1128" frameX="-10" frameY="0" frameWidth="1196" frameHeight="1128"/>
+	<SubTexture name="hapi feis note right0000" x="4733" y="1207" width="1179" height="1124" pivotX="-342.9" pivotY="-228" frameX="-5" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0001" x="4733" y="1207" width="1179" height="1124" frameX="-5" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0002" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0003" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0004" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0005" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0006" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0007" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0008" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0009" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0010" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0011" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0012" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+	<SubTexture name="hapi feis note right0013" x="5912" y="1207" width="1178" height="1124" frameX="0" frameY="0" frameWidth="1184" frameHeight="1124"/>
+</TextureAtlas>

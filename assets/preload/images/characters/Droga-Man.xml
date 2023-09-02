@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Droga-Man.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pac Drogado abajo instancia 10000" x="0" y="0" width="458" height="516" pivotX="-78.6" pivotY="-72.4" frameX="0" frameY="-3" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10001" x="0" y="0" width="458" height="516" frameX="0" frameY="-3" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10002" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10003" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10004" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10005" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10006" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10007" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10008" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10009" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10010" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10011" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10012" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogado abajo instancia 10013" x="458" y="0" width="456" height="519" frameX="-8" frameY="0" frameWidth="464" frameHeight="519"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10000" x="914" y="0" width="396" height="716" pivotX="-84.5" pivotY="-1.85" frameX="-17" frameY="0" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10001" x="914" y="0" width="396" height="716" frameX="-17" frameY="0" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10002" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10003" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10004" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10005" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10006" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10007" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10008" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10009" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10010" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10011" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10012" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac Drogao Ariba instancia 10013" x="1310" y="0" width="417" height="708" frameX="0" frameY="-8" frameWidth="417" frameHeight="716"/>
+	<SubTexture name="Pac droga derecha instancia 10000" x="1727" y="0" width="496" height="430" pivotX="-104.9" pivotY="-206" frameX="-2" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10001" x="1727" y="0" width="496" height="430" frameX="-2" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10002" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10003" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10004" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10005" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10006" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10007" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10008" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10009" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10010" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10011" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10012" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac droga derecha instancia 10013" x="2223" y="0" width="497" height="430" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+	<SubTexture name="Pac drogado zquierda instancia 10000" x="2720" y="0" width="597" height="427" pivotX="-17.6" pivotY="-223.85" frameX="0" frameY="0" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10001" x="2720" y="0" width="597" height="427" frameX="0" frameY="0" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10002" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10003" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10004" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10005" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10006" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10007" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10008" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10009" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10010" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10011" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10012" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pac drogado zquierda instancia 10013" x="3317" y="0" width="612" height="420" frameX="-4" frameY="-7" frameWidth="616" frameHeight="427"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10000" x="0" y="716" width="436" height="383" pivotX="-113.85" pivotY="-200.1" frameX="0" frameY="-19" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10001" x="0" y="716" width="436" height="383" frameX="0" frameY="-19" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10002" x="436" y="716" width="421" height="387" frameX="-7" frameY="-15" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10003" x="436" y="716" width="421" height="387" frameX="-7" frameY="-15" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10004" x="857" y="716" width="432" height="398" frameX="-6" frameY="-4" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10005" x="857" y="716" width="432" height="398" frameX="-6" frameY="-4" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10006" x="1289" y="716" width="439" height="401" frameX="-4" frameY="-1" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10007" x="1289" y="716" width="439" height="401" frameX="-4" frameY="-1" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10008" x="1728" y="716" width="443" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10009" x="1728" y="716" width="443" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10010" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10011" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10012" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10013" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10014" x="0" y="716" width="436" height="383" frameX="0" frameY="-19" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10015" x="0" y="716" width="436" height="383" frameX="0" frameY="-19" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10016" x="436" y="716" width="421" height="387" frameX="-7" frameY="-15" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10017" x="436" y="716" width="421" height="387" frameX="-7" frameY="-15" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10018" x="2616" y="716" width="432" height="398" frameX="-6" frameY="-4" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10019" x="3048" y="716" width="432" height="398" frameX="-6" frameY="-4" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10020" x="1289" y="716" width="439" height="401" frameX="-4" frameY="-1" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10021" x="1289" y="716" width="439" height="401" frameX="-4" frameY="-1" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10022" x="3480" y="716" width="443" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10023" x="3480" y="716" width="443" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10024" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10025" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10026" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10027" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10028" x="0" y="716" width="436" height="383" frameX="0" frameY="-19" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10029" x="0" y="716" width="436" height="383" frameX="0" frameY="-19" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10030" x="436" y="716" width="421" height="387" frameX="-7" frameY="-15" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10031" x="436" y="716" width="421" height="387" frameX="-7" frameY="-15" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10032" x="857" y="716" width="432" height="398" frameX="-6" frameY="-4" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10033" x="857" y="716" width="432" height="398" frameX="-6" frameY="-4" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10034" x="1289" y="716" width="439" height="401" frameX="-4" frameY="-1" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10035" x="1289" y="716" width="439" height="401" frameX="-4" frameY="-1" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10036" x="1728" y="716" width="443" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10037" x="1728" y="716" width="443" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10038" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10039" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10040" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="Pacman SuperDroga Idle instancia 10041" x="2171" y="716" width="445" height="402" frameX="-3" frameY="0" frameWidth="448" frameHeight="402"/>
+</TextureAtlas>

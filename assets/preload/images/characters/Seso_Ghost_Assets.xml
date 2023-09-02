@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Seso_Ghost_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ScaredSeso Down0000" x="10" y="10" width="218" height="243" frameX="0" frameY="-10" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0001" x="10" y="10" width="218" height="243" frameX="0" frameY="-10" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0002" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0003" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0004" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0005" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0006" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0007" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0008" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0009" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0010" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0011" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0012" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Down0013" x="238" y="10" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Idle10000" x="449" y="10" width="199" height="242" frameX="0" frameY="-27" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10001" x="449" y="10" width="199" height="242" frameX="0" frameY="-27" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10002" x="658" y="10" width="196" height="245" frameX="-1" frameY="-23" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10003" x="658" y="10" width="196" height="245" frameX="-1" frameY="-23" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10004" x="864" y="10" width="187" height="247" frameX="-10" frameY="-10" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10005" x="864" y="10" width="187" height="247" frameX="-10" frameY="-10" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10006" x="1061" y="10" width="182" height="247" frameX="-15" frameY="-2" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10007" x="1061" y="10" width="182" height="247" frameX="-15" frameY="-2" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10008" x="1253" y="10" width="182" height="246" frameX="-16" frameY="-1" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10009" x="1253" y="10" width="182" height="246" frameX="-16" frameY="-1" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10010" x="1445" y="10" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10011" x="1445" y="10" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10012" x="1636" y="10" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10013" x="1636" y="10" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10014" x="1827" y="10" width="182" height="247" frameX="-16" frameY="-1" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle10015" x="1827" y="10" width="182" height="247" frameX="-16" frameY="-1" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20000" x="2019" y="10" width="199" height="242" frameX="0" frameY="-27" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20001" x="2019" y="10" width="199" height="242" frameX="0" frameY="-27" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20002" x="2228" y="10" width="196" height="246" frameX="-1" frameY="-22" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20003" x="2228" y="10" width="196" height="246" frameX="-1" frameY="-22" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20004" x="2434" y="10" width="187" height="247" frameX="-10" frameY="-10" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20005" x="2434" y="10" width="187" height="247" frameX="-10" frameY="-10" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20006" x="2631" y="10" width="182" height="247" frameX="-15" frameY="-2" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20007" x="2631" y="10" width="182" height="247" frameX="-15" frameY="-2" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20008" x="2823" y="10" width="182" height="246" frameX="-16" frameY="-1" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20009" x="2823" y="10" width="182" height="246" frameX="-16" frameY="-1" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20010" x="3015" y="10" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20011" x="3015" y="10" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20012" x="3206" y="10" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20013" x="3206" y="10" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20014" x="3397" y="10" width="182" height="247" frameX="-16" frameY="-1" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Idle20015" x="3397" y="10" width="182" height="247" frameX="-16" frameY="-1" frameWidth="199" frameHeight="269"/>
+	<SubTexture name="ScaredSeso Left0000" x="3589" y="10" width="221" height="245" frameX="0" frameY="-8" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0001" x="3589" y="10" width="221" height="245" frameX="0" frameY="-8" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0002" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0003" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0004" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0005" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0006" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0007" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0008" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0009" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0010" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0011" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0012" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso Left0013" x="3820" y="10" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="ScaredSeso MissDown0000" x="10" y="10" width="218" height="243" frameX="0" frameY="-15" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="ScaredSeso MissDown0001" x="10" y="272" width="199" height="255" frameX="-6" frameY="0" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0002" x="10" y="272" width="199" height="255" frameX="-6" frameY="0" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0003" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0004" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0005" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0006" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0007" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0008" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0009" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0010" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0011" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0012" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissDown0013" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="ScaredSeso MissLeft0000" x="433" y="272" width="221" height="245" frameX="0" frameY="-9" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0001" x="664" y="272" width="212" height="254" frameX="-13" frameY="-1" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0002" x="664" y="272" width="212" height="254" frameX="-13" frameY="-1" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0003" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0004" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0005" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0006" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0007" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0008" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0009" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0010" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0011" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0012" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissLeft0013" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="ScaredSeso MissRight0000" x="1112" y="272" width="224" height="274" frameX="-8" frameY="-7" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0001" x="1346" y="272" width="205" height="271" frameX="0" frameY="-1" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0002" x="1346" y="272" width="205" height="271" frameX="0" frameY="-1" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0003" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0004" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0005" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0006" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0007" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0008" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0009" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0010" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0011" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0012" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissRight0013" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso MissUp0000" x="1779" y="272" width="153" height="294" frameX="-7" frameY="0" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0001" x="1942" y="272" width="175" height="275" frameX="0" frameY="-27" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0002" x="1942" y="272" width="175" height="275" frameX="0" frameY="-27" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0003" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0004" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0005" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0006" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0007" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0008" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0009" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0010" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0011" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0012" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso MissUp0013" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-17" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso Right0000" x="1112" y="272" width="224" height="274" frameX="-3" frameY="-5" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso Right0001" x="1112" y="272" width="224" height="274" frameX="-3" frameY="-5" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="ScaredSeso Right0002" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0003" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0004" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0005" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0006" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0007" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0008" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0009" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0010" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0011" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0012" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Right0013" x="2304" y="272" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="ScaredSeso Up0000" x="1779" y="272" width="153" height="294" frameX="-5" frameY="0" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso Up0001" x="1779" y="272" width="153" height="294" frameX="-5" frameY="0" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="ScaredSeso Up0002" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0003" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0004" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0005" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0006" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0007" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0008" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0009" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0010" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0011" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0012" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="ScaredSeso Up0013" x="2524" y="272" width="164" height="287" frameX="0" frameY="-13" frameWidth="164" frameHeight="300"/>
+	<SubTexture name="Seso Down0000" x="2698" y="272" width="218" height="243" frameX="0" frameY="-10" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0001" x="2698" y="272" width="218" height="243" frameX="0" frameY="-10" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0002" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0003" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0004" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0005" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0006" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0007" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0008" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0009" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0010" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0011" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0012" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Down0013" x="2926" y="272" width="201" height="248" frameX="-7" frameY="0" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso Idle0000" x="3137" y="272" width="199" height="243" frameX="0" frameY="-28" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0001" x="3137" y="272" width="199" height="243" frameX="0" frameY="-28" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0002" x="3346" y="272" width="196" height="246" frameX="-2" frameY="-23" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0003" x="3346" y="272" width="196" height="246" frameX="-2" frameY="-23" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0004" x="3552" y="272" width="187" height="247" frameX="-10" frameY="-10" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0005" x="3552" y="272" width="187" height="247" frameX="-10" frameY="-10" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0006" x="3749" y="272" width="182" height="248" frameX="-15" frameY="-1" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0007" x="3749" y="272" width="182" height="248" frameX="-15" frameY="-1" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0008" x="10" y="576" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0009" x="10" y="576" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0010" x="10" y="576" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0011" x="10" y="576" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0012" x="10" y="576" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Idle0013" x="10" y="576" width="181" height="248" frameX="-16" frameY="0" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Left0000" x="201" y="576" width="221" height="245" frameX="0" frameY="-8" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0001" x="201" y="576" width="221" height="245" frameX="0" frameY="-8" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0002" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0003" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0004" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0005" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0006" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0007" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0008" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0009" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0010" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0011" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0012" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0013" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Left0014" x="432" y="576" width="216" height="252" frameX="-10" frameY="0" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso Mid Event0000" x="658" y="576" width="196" height="246" frameX="-341" frameY="-124" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0001" x="658" y="576" width="196" height="246" frameX="-341" frameY="-124" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0002" x="864" y="576" width="190" height="249" frameX="-371" frameY="-137" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0003" x="864" y="576" width="190" height="249" frameX="-371" frameY="-137" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0004" x="1064" y="576" width="193" height="250" frameX="-481" frameY="-163" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0005" x="1064" y="576" width="193" height="250" frameX="-481" frameY="-163" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0006" x="1267" y="576" width="198" height="251" frameX="-601" frameY="-108" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0007" x="1267" y="576" width="198" height="251" frameX="-601" frameY="-108" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0008" x="1475" y="576" width="200" height="252" frameX="-616" frameY="-72" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0009" x="1475" y="576" width="200" height="252" frameX="-616" frameY="-72" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0010" x="1685" y="576" width="202" height="252" frameX="-620" frameY="-64" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0011" x="1685" y="576" width="202" height="252" frameX="-620" frameY="-64" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0012" x="1897" y="576" width="203" height="252" frameX="-620" frameY="-62" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0013" x="1897" y="576" width="203" height="252" frameX="-620" frameY="-62" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0014" x="2110" y="576" width="196" height="251" frameX="-605" frameY="-94" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0015" x="2110" y="576" width="196" height="251" frameX="-605" frameY="-94" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0016" x="2316" y="576" width="222" height="178" frameX="-380" frameY="-184" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0017" x="2316" y="576" width="222" height="178" frameX="-380" frameY="-184" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0018" x="2548" y="576" width="299" height="107" frameX="-81" frameY="-223" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0019" x="2857" y="576" width="136" height="287" frameX="0" frameY="-89" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0020" x="3003" y="576" width="146" height="275" frameX="-21" frameY="-93" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0021" x="3159" y="576" width="180" height="247" frameX="-289" frameY="-118" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0022" x="3159" y="576" width="180" height="247" frameX="-289" frameY="-118" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0023" x="3349" y="576" width="183" height="247" frameX="-404" frameY="-96" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0024" x="3349" y="576" width="183" height="247" frameX="-404" frameY="-96" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0025" x="3349" y="576" width="183" height="247" frameX="-319" frameY="-110" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0026" x="3349" y="576" width="183" height="247" frameX="-319" frameY="-110" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0027" x="10" y="576" width="181" height="248" frameX="-341" frameY="-115" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Mid Event0028" x="10" y="576" width="181" height="248" frameX="-341" frameY="-115" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Mid Event0029" x="10" y="576" width="181" height="248" frameX="-351" frameY="-115" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Mid Event0030" x="10" y="576" width="181" height="248" frameX="-351" frameY="-115" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Mid Event0031" x="10" y="576" width="181" height="248" frameX="-351" frameY="-115" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Mid Event0032" x="10" y="576" width="181" height="248" frameX="-351" frameY="-115" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Mid Event0033" x="10" y="576" width="181" height="248" frameX="-351" frameY="-115" frameWidth="199" frameHeight="271"/>
+	<SubTexture name="Seso Mid Event0034" x="3542" y="576" width="195" height="241" frameX="-343" frameY="-133" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0035" x="3542" y="576" width="195" height="241" frameX="-343" frameY="-133" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0036" x="3747" y="576" width="221" height="343" frameX="-294" frameY="0" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0037" x="3747" y="576" width="221" height="343" frameX="-294" frameY="0" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0038" x="10" y="929" width="268" height="271" frameX="-275" frameY="-96" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0039" x="10" y="929" width="268" height="271" frameX="-275" frameY="-96" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0040" x="288" y="929" width="240" height="338" frameX="-283" frameY="-20" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0041" x="288" y="929" width="240" height="338" frameX="-283" frameY="-20" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0042" x="538" y="929" width="255" height="279" frameX="-280" frameY="-87" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0043" x="538" y="929" width="255" height="279" frameX="-280" frameY="-87" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0044" x="803" y="929" width="248" height="325" frameX="-278" frameY="-35" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0045" x="803" y="929" width="248" height="325" frameX="-278" frameY="-35" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0046" x="1061" y="929" width="249" height="283" frameX="-286" frameY="-78" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0047" x="1061" y="929" width="249" height="283" frameX="-286" frameY="-78" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0048" x="1320" y="929" width="251" height="323" frameX="-278" frameY="-38" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0049" x="1320" y="929" width="251" height="323" frameX="-278" frameY="-38" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0050" x="1581" y="929" width="244" height="283" frameX="-288" frameY="-78" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0051" x="1581" y="929" width="244" height="283" frameX="-288" frameY="-78" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0052" x="1835" y="929" width="229" height="275" frameX="-303" frameY="-86" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0053" x="2074" y="929" width="206" height="251" frameX="-326" frameY="-110" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0054" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0055" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0056" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0057" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0058" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0059" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0060" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0061" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0062" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0063" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0064" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0065" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0066" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0067" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0068" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0069" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0070" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0071" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0072" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0073" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0074" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0075" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0076" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0077" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0078" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0079" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0080" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0081" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0082" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0083" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0084" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0085" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0086" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0087" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0088" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0089" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0090" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0091" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0092" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0093" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0094" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0095" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0096" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0097" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0098" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0099" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0100" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0101" x="2290" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0102" x="2479" y="929" width="189" height="240" frameX="-348" frameY="-126" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0103" x="2479" y="929" width="189" height="240" frameX="-348" frameY="-126" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0104" x="2678" y="929" width="169" height="258" frameX="-358" frameY="-99" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0105" x="2678" y="929" width="169" height="258" frameX="-358" frameY="-99" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0106" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0107" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0108" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0109" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0110" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0111" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0112" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0113" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0114" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0115" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0116" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0117" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0118" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0119" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0120" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0121" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0122" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0123" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0124" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0125" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0126" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0127" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0128" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0129" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0130" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0131" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0132" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0133" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0134" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0135" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0136" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0137" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0138" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0139" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0140" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0141" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0142" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0143" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0144" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0145" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0146" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0147" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0148" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0149" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0150" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0151" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0152" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0153" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0154" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0155" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0156" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0157" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0158" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0159" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0160" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0161" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0162" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0163" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0164" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0165" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0166" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0167" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0168" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0169" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0170" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso Mid Event0171" x="2857" y="929" width="179" height="248" frameX="-353" frameY="-113" frameWidth="823" frameHeight="413"/>
+	<SubTexture name="Seso MissDown0000" x="2698" y="272" width="218" height="243" frameX="0" frameY="-15" frameWidth="218" frameHeight="253"/>
+	<SubTexture name="Seso MissDown0001" x="10" y="272" width="199" height="255" frameX="-6" frameY="0" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0002" x="10" y="272" width="199" height="255" frameX="-6" frameY="0" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0003" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0004" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0005" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0006" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0007" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0008" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0009" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0010" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0011" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0012" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissDown0013" x="219" y="272" width="204" height="248" frameX="-7" frameY="-9" frameWidth="219" frameHeight="257"/>
+	<SubTexture name="Seso MissLeft0000" x="201" y="576" width="221" height="245" frameX="0" frameY="-9" frameWidth="226" frameHeight="253"/>
+	<SubTexture name="Seso MissLeft0001" x="664" y="272" width="212" height="254" frameX="-13" frameY="-1" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0002" x="664" y="272" width="212" height="254" frameX="-13" frameY="-1" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0003" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0004" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0005" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0006" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0007" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0008" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0009" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0010" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0011" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0012" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissLeft0013" x="886" y="272" width="216" height="254" frameX="-8" frameY="0" frameWidth="225" frameHeight="255"/>
+	<SubTexture name="Seso MissRight0000" x="3209" y="929" width="224" height="274" frameX="-8" frameY="-7" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso MissRight0001" x="1346" y="272" width="205" height="271" frameX="0" frameY="-1" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0002" x="1346" y="272" width="205" height="271" frameX="0" frameY="-1" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0003" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0004" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0005" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0006" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0007" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0008" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0009" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0010" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0011" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0012" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissRight0013" x="1561" y="272" width="208" height="271" frameX="-4" frameY="0" frameWidth="232" frameHeight="281"/>
+	<SubTexture name="Seso MissUp0000" x="3046" y="929" width="153" height="288" frameX="-7" frameY="0" frameWidth="175" frameHeight="296"/>
+	<SubTexture name="Seso MissUp0001" x="1942" y="272" width="175" height="275" frameX="0" frameY="-21" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0002" x="1942" y="272" width="175" height="275" frameX="0" frameY="-21" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0003" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0004" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0005" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0006" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0007" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0008" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0009" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0010" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0011" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0012" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso MissUp0013" x="2127" y="272" width="167" height="282" frameX="-4" frameY="-11" frameWidth="175" frameHeight="302"/>
+	<SubTexture name="Seso Right0000" x="3209" y="929" width="224" height="274" frameX="-3" frameY="-5" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0001" x="3209" y="929" width="224" height="274" frameX="-3" frameY="-5" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0002" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0003" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0004" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0005" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0006" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0007" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0008" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0009" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0010" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0011" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0012" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Right0013" x="3443" y="929" width="210" height="271" frameX="0" frameY="0" frameWidth="227" frameHeight="279"/>
+	<SubTexture name="Seso Up0000" x="3046" y="929" width="153" height="288" frameX="-5" frameY="0" frameWidth="175" frameHeight="296"/>
+	<SubTexture name="Seso Up0001" x="3046" y="929" width="153" height="288" frameX="-5" frameY="0" frameWidth="175" frameHeight="296"/>
+	<SubTexture name="Seso Up0002" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0003" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0004" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0005" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0006" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0007" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0008" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0009" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0010" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0011" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0012" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+	<SubTexture name="Seso Up0013" x="3663" y="929" width="164" height="284" frameX="0" frameY="-10" frameWidth="164" frameHeight="294"/>
+</TextureAtlas>

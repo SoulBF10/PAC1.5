@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pacman_grande.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pacman Head down0000" x="1627" y="331" width="381" height="259" frameX="0" frameY="-27" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0001" x="1627" y="331" width="381" height="259" frameX="0" frameY="-27" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0002" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0003" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0004" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0005" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0006" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0007" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0008" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0009" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0010" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0011" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0012" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head down0013" x="0" y="724" width="373" height="278" frameX="-3" frameY="0" frameWidth="381" frameHeight="286"/>
+	<SubTexture name="Pacman Head idle0000" x="373" y="724" width="341" height="331"/>
+	<SubTexture name="Pacman Head idle0001" x="373" y="724" width="341" height="331"/>
+	<SubTexture name="Pacman Head idle0002" x="714" y="724" width="338" height="331" frameX="0" frameY="0" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head idle0003" x="714" y="724" width="338" height="331" frameX="0" frameY="0" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head idle0004" x="1052" y="724" width="315" height="331" frameX="0" frameY="0" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head idle0005" x="1052" y="724" width="315" height="331" frameX="0" frameY="0" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head idle0006" x="1367" y="724" width="273" height="331" frameX="0" frameY="0" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head idle0007" x="1367" y="724" width="273" height="331" frameX="0" frameY="0" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head idle0008" x="1052" y="724" width="315" height="331" frameX="0" frameY="0" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head idle0009" x="1052" y="724" width="315" height="331" frameX="0" frameY="0" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head idle0010" x="714" y="724" width="338" height="331" frameX="0" frameY="0" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head idle0011" x="714" y="724" width="338" height="331" frameX="0" frameY="0" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head left0000" x="1640" y="724" width="332" height="338" frameX="0" frameY="0" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0001" x="1640" y="724" width="332" height="338" frameX="0" frameY="0" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0002" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0003" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0004" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0005" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0006" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0007" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0008" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0009" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0010" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0011" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0012" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head left0013" x="0" y="1062" width="341" height="332" frameX="-8" frameY="-6" frameWidth="349" frameHeight="338"/>
+	<SubTexture name="Pacman Head right0000" x="341" y="1062" width="259" height="343" frameX="-23" frameY="0" frameWidth="315" frameHeight="343"/>
+	<SubTexture name="Pacman Head right0001" x="341" y="1062" width="259" height="343" frameX="-23" frameY="0" frameWidth="315" frameHeight="343"/>
+	<SubTexture name="Pacman Head right0002" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0003" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0004" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0005" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0006" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0007" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0008" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0009" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0010" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0011" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0012" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head right0013" x="1052" y="724" width="315" height="331" frameX="0" frameY="-12" frameWidth="341" frameHeight="331"/>
+	<SubTexture name="Pacman Head up0000" x="600" y="1062" width="252" height="358" frameX="0" frameY="0" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0001" x="600" y="1062" width="252" height="358" frameX="0" frameY="0" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0002" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0003" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0004" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0005" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0006" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0007" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0008" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0009" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0010" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0011" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0012" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="Pacman Head up0013" x="852" y="1062" width="296" height="346" frameX="-9" frameY="-31" frameWidth="305" frameHeight="377"/>
+	<SubTexture name="muere0000" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0001" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0002" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0003" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0004" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0005" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0006" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0007" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0008" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0009" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0010" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0011" x="0" y="0" width="317" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0012" x="317" y="0" width="300" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0013" x="317" y="0" width="300" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0014" x="617" y="0" width="275" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0015" x="617" y="0" width="275" height="331" frameX="-38" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0016" x="892" y="0" width="252" height="331" frameX="-39" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0017" x="892" y="0" width="252" height="331" frameX="-39" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0018" x="1144" y="0" width="236" height="331" frameX="-39" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0019" x="1144" y="0" width="236" height="331" frameX="-39" frameY="-37" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0020" x="1380" y="0" width="191" height="330" frameX="-39" frameY="-39" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0021" x="1380" y="0" width="191" height="330" frameX="-39" frameY="-39" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0022" x="1571" y="0" width="189" height="324" frameX="-39" frameY="-42" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0023" x="1571" y="0" width="189" height="324" frameX="-39" frameY="-42" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0024" x="1760" y="0" width="188" height="312" frameX="-39" frameY="-47" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0025" x="1760" y="0" width="188" height="312" frameX="-39" frameY="-47" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0026" x="0" y="331" width="186" height="289" frameX="-40" frameY="-55" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0027" x="0" y="331" width="186" height="289" frameX="-40" frameY="-55" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0028" x="186" y="331" width="186" height="254" frameX="-40" frameY="-68" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0029" x="186" y="331" width="186" height="254" frameX="-40" frameY="-68" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0030" x="372" y="331" width="187" height="198" frameX="-39" frameY="-94" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0031" x="372" y="331" width="187" height="198" frameX="-39" frameY="-94" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0032" x="559" y="331" width="189" height="133" frameX="-38" frameY="-117" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0033" x="559" y="331" width="189" height="133" frameX="-38" frameY="-117" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0034" x="748" y="331" width="187" height="79" frameX="-40" frameY="-140" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0035" x="748" y="331" width="187" height="79" frameX="-40" frameY="-140" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0036" x="935" y="331" width="0" height="0" frameX="0" frameY="0" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0037" x="935" y="331" width="303" height="303" frameX="-37" frameY="-52" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0038" x="935" y="331" width="303" height="303" frameX="-37" frameY="-52" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0039" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0040" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0041" x="1249" y="331" width="378" height="393"/>
+	<SubTexture name="muere0042" x="1249" y="331" width="378" height="393"/>
+	<SubTexture name="muere0043" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0044" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0045" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0046" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0047" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0048" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0049" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0050" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0051" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0052" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0053" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="muere0054" x="1238" y="331" width="11" height="11" frameX="-176" frameY="-195" frameWidth="378" frameHeight="393"/>
+</TextureAtlas>

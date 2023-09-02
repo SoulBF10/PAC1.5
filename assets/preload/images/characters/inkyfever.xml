@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="inkyfever.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Inky Down0000" x="0" y="0" width="437" height="609" pivotX="28.3" pivotY="61.85" frameX="0" frameY="-7" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0001" x="0" y="0" width="437" height="609" frameX="0" frameY="-7" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0002" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0003" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0004" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0005" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0006" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0007" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0008" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0009" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0010" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0011" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0012" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Down0013" x="437" y="0" width="429" height="616" frameX="0" frameY="0" frameWidth="437" frameHeight="616"/>
+	<SubTexture name="Inky Idle0000" x="866" y="0" width="414" height="621" pivotX="15.45" pivotY="87.85" frameX="-2" frameY="-21" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0001" x="1280" y="0" width="416" height="621" frameX="0" frameY="-21" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0002" x="1696" y="0" width="406" height="628" frameX="-5" frameY="-14" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0003" x="1696" y="0" width="406" height="628" frameX="-5" frameY="-14" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0004" x="2102" y="0" width="392" height="636" frameX="-13" frameY="-6" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0005" x="2102" y="0" width="392" height="636" frameX="-13" frameY="-6" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0006" x="2494" y="0" width="391" height="639" frameX="-12" frameY="-3" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0007" x="2494" y="0" width="391" height="639" frameX="-12" frameY="-3" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0008" x="2885" y="0" width="386" height="642" frameX="-15" frameY="0" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0009" x="2885" y="0" width="386" height="642" frameX="-15" frameY="0" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0010" x="3271" y="0" width="388" height="642" frameX="-13" frameY="0" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0011" x="3271" y="0" width="388" height="642" frameX="-13" frameY="0" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0012" x="2885" y="0" width="386" height="642" frameX="-15" frameY="0" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Idle0013" x="2885" y="0" width="386" height="642" frameX="-15" frameY="0" frameWidth="416" frameHeight="642"/>
+	<SubTexture name="Inky Left0000" x="0" y="642" width="655" height="637" pivotX="296.85" pivotY="82.75" frameX="0" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0001" x="0" y="642" width="655" height="637" frameX="0" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0002" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0003" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0004" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0005" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0006" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0007" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0008" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0009" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0010" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0011" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0012" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Left0013" x="655" y="642" width="649" height="637" frameX="-9" frameY="0" frameWidth="658" frameHeight="637"/>
+	<SubTexture name="Inky Right0000" x="1304" y="642" width="415" height="628" pivotX="-3.95" pivotY="73.3" frameX="-5" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0001" x="1304" y="642" width="415" height="628" frameX="-5" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0002" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0003" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0004" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0005" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0006" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0007" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0008" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0009" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0010" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0011" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0012" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Right0013" x="1719" y="642" width="414" height="628" frameX="0" frameY="0" frameWidth="420" frameHeight="628"/>
+	<SubTexture name="Inky Up0000" x="2133" y="642" width="391" height="663" pivotX="3.35" pivotY="108.25" frameX="0" frameY="0" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0001" x="2133" y="642" width="391" height="663" frameX="0" frameY="0" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0002" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0003" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0004" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0005" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0006" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0007" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0008" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0009" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0010" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0011" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0012" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+	<SubTexture name="Inky Up0013" x="2524" y="642" width="393" height="658" frameX="0" frameY="-5" frameWidth="393" frameHeight="663"/>
+</TextureAtlas>

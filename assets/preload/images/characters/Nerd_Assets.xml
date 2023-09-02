@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nerd_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nerd 1v10000" x="0" y="0" width="542" height="482" frameX="-10" frameY="-26" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10001" x="542" y="0" width="448" height="482" frameX="-125" frameY="-26" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10002" x="542" y="0" width="448" height="482" frameX="-125" frameY="-26" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10003" x="990" y="0" width="450" height="487" frameX="-122" frameY="-22" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10004" x="990" y="0" width="450" height="487" frameX="-122" frameY="-22" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10005" x="1440" y="0" width="450" height="484" frameX="-122" frameY="-25" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10006" x="1890" y="0" width="449" height="484" frameX="-123" frameY="-25" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10007" x="2339" y="0" width="453" height="477" frameX="-126" frameY="-32" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10008" x="2792" y="0" width="453" height="477" frameX="-126" frameY="-32" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10009" x="3245" y="0" width="453" height="481" frameX="-126" frameY="-28" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10010" x="3698" y="0" width="451" height="481" frameX="-126" frameY="-28" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10011" x="4149" y="0" width="451" height="481" frameX="-126" frameY="-28" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10012" x="4600" y="0" width="450" height="485" frameX="-127" frameY="-24" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10013" x="5050" y="0" width="450" height="485" frameX="-127" frameY="-24" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10014" x="5500" y="0" width="450" height="481" frameX="-127" frameY="-28" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10015" x="5950" y="0" width="450" height="481" frameX="-127" frameY="-28" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10016" x="6400" y="0" width="450" height="484" frameX="-127" frameY="-25" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10017" x="6850" y="0" width="448" height="485" frameX="-127" frameY="-24" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10018" x="7298" y="0" width="448" height="485" frameX="-127" frameY="-24" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10019" x="0" y="487" width="448" height="482" frameX="-127" frameY="-27" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10020" x="448" y="487" width="448" height="482" frameX="-127" frameY="-27" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10021" x="896" y="487" width="448" height="482" frameX="-127" frameY="-27" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10022" x="896" y="487" width="448" height="482" frameX="-127" frameY="-27" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10023" x="1344" y="487" width="448" height="482" frameX="-127" frameY="-27" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10024" x="1344" y="487" width="448" height="482" frameX="-127" frameY="-27" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10025" x="1344" y="487" width="448" height="482" frameX="-127" frameY="-27" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10026" x="1344" y="487" width="448" height="482" frameX="-127" frameY="-27" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10027" x="1792" y="487" width="487" height="494" frameX="-91" frameY="-15" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10028" x="2279" y="487" width="603" height="501" frameX="0" frameY="-7" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10029" x="2279" y="487" width="603" height="501" frameX="0" frameY="-7" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10030" x="2882" y="487" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10031" x="3479" y="487" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10032" x="4076" y="487" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10033" x="4673" y="487" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10034" x="5270" y="487" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10035" x="5867" y="487" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10036" x="6464" y="487" width="598" height="500" frameX="-4" frameY="-8" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10037" x="7062" y="487" width="598" height="500" frameX="-4" frameY="-8" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10038" x="0" y="988" width="597" height="498" frameX="-4" frameY="-10" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10039" x="0" y="988" width="597" height="498" frameX="-4" frameY="-10" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10040" x="597" y="988" width="597" height="498" frameX="-4" frameY="-10" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10041" x="1194" y="988" width="597" height="498" frameX="-4" frameY="-10" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10042" x="1791" y="988" width="597" height="498" frameX="-4" frameY="-10" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10043" x="0" y="988" width="597" height="498" frameX="-4" frameY="-10" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10044" x="2388" y="988" width="597" height="498" frameX="-4" frameY="-10" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10045" x="2388" y="988" width="597" height="498" frameX="-4" frameY="-10" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10046" x="2985" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10047" x="3582" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10048" x="3582" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10049" x="4179" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10050" x="3582" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10051" x="3582" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10052" x="4776" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10053" x="4776" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10054" x="5373" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10055" x="5970" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10056" x="6567" y="988" width="597" height="497" frameX="-4" frameY="-11" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10057" x="7164" y="988" width="588" height="508" frameX="-5" frameY="0" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10058" x="0" y="1496" width="588" height="508" frameX="-5" frameY="0" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10059" x="588" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10060" x="588" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10061" x="1178" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10062" x="1178" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10063" x="1768" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10064" x="2358" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10065" x="2948" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10066" x="588" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10067" x="588" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10068" x="3538" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10069" x="4128" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10070" x="4128" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10071" x="4128" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10072" x="4128" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd 1v10073" x="4128" y="1496" width="590" height="503" frameX="-5" frameY="-5" frameWidth="603" frameHeight="509"/>
+	<SubTexture name="Nerd down0000" x="4718" y="1496" width="541" height="429" frameX="0" frameY="-11" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0001" x="4718" y="1496" width="541" height="429" frameX="0" frameY="-11" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0002" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0003" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0004" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0005" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0006" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0007" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0008" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0009" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0010" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0011" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0012" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0013" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd down0014" x="5259" y="1496" width="540" height="440" frameX="0" frameY="0" frameWidth="541" frameHeight="440"/>
+	<SubTexture name="Nerd hehey0000" x="5799" y="1496" width="545" height="483" frameX="0" frameY="-40" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0001" x="5799" y="1496" width="545" height="483" frameX="0" frameY="-40" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0002" x="5799" y="1496" width="545" height="483" frameX="0" frameY="-40" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0003" x="5799" y="1496" width="545" height="483" frameX="0" frameY="-40" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0004" x="5799" y="1496" width="545" height="483" frameX="0" frameY="-40" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0005" x="5799" y="1496" width="545" height="483" frameX="0" frameY="-40" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0006" x="5799" y="1496" width="545" height="483" frameX="0" frameY="-40" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0007" x="5799" y="1496" width="545" height="483" frameX="0" frameY="-40" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0008" x="6344" y="1496" width="565" height="492" frameX="-22" frameY="-31" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0009" x="6344" y="1496" width="565" height="492" frameX="-22" frameY="-31" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0010" x="6909" y="1496" width="564" height="498" frameX="-52" frameY="-25" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0011" x="6909" y="1496" width="564" height="498" frameX="-52" frameY="-25" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0012" x="7473" y="1496" width="563" height="493" frameX="-45" frameY="-30" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0013" x="0" y="2004" width="553" height="499" frameX="-43" frameY="-24" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0014" x="0" y="2004" width="553" height="499" frameX="-43" frameY="-24" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0015" x="553" y="2004" width="549" height="494" frameX="-44" frameY="-29" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0016" x="553" y="2004" width="549" height="494" frameX="-44" frameY="-29" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0017" x="1102" y="2004" width="548" height="492" frameX="-44" frameY="-31" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0018" x="1650" y="2004" width="550" height="493" frameX="-43" frameY="-30" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0019" x="2200" y="2004" width="550" height="493" frameX="-43" frameY="-30" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0020" x="2200" y="2004" width="550" height="493" frameX="-43" frameY="-30" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0021" x="2750" y="2004" width="554" height="491" frameX="-39" frameY="-32" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0022" x="2750" y="2004" width="554" height="491" frameX="-39" frameY="-32" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0023" x="3304" y="2004" width="554" height="503" frameX="-39" frameY="-20" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0024" x="3858" y="2004" width="554" height="503" frameX="-39" frameY="-20" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0025" x="4412" y="2004" width="542" height="496" frameX="-43" frameY="-27" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0026" x="4954" y="2004" width="542" height="496" frameX="-43" frameY="-27" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0027" x="5496" y="2004" width="539" height="496" frameX="-44" frameY="-27" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0028" x="6035" y="2004" width="539" height="496" frameX="-44" frameY="-27" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0029" x="6574" y="2004" width="544" height="496" frameX="-44" frameY="-27" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0030" x="7118" y="2004" width="544" height="496" frameX="-44" frameY="-27" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0031" x="0" y="2507" width="543" height="496" frameX="-44" frameY="-27" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0032" x="543" y="2507" width="543" height="496" frameX="-44" frameY="-27" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0033" x="543" y="2507" width="543" height="496" frameX="-44" frameY="-27" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0034" x="1086" y="2507" width="543" height="496" frameX="-44" frameY="-27" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0035" x="1629" y="2507" width="534" height="498" frameX="-49" frameY="-25" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0036" x="1629" y="2507" width="534" height="498" frameX="-49" frameY="-25" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0037" x="2163" y="2507" width="543" height="478" frameX="-45" frameY="-45" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0038" x="2163" y="2507" width="543" height="478" frameX="-45" frameY="-45" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0039" x="2706" y="2507" width="538" height="485" frameX="-47" frameY="-38" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0040" x="2706" y="2507" width="538" height="485" frameX="-47" frameY="-38" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0041" x="3244" y="2507" width="534" height="482" frameX="-49" frameY="-41" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0042" x="3778" y="2507" width="535" height="479" frameX="-49" frameY="-44" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0043" x="3778" y="2507" width="535" height="479" frameX="-49" frameY="-44" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0044" x="4313" y="2507" width="570" height="484" frameX="-49" frameY="-39" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0045" x="4313" y="2507" width="570" height="484" frameX="-49" frameY="-39" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0046" x="4883" y="2507" width="437" height="481" frameX="-49" frameY="-42" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0047" x="4883" y="2507" width="437" height="481" frameX="-49" frameY="-42" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0048" x="5320" y="2507" width="575" height="489" frameX="-44" frameY="-34" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0049" x="5895" y="2507" width="614" height="516" frameX="-22" frameY="-8" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0050" x="6509" y="2507" width="619" height="516" frameX="-17" frameY="-8" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0051" x="7128" y="2507" width="612" height="510" frameX="-24" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0052" x="0" y="3023" width="615" height="510" frameX="-21" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0053" x="615" y="3023" width="616" height="510" frameX="-20" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0054" x="1231" y="3023" width="612" height="510" frameX="-24" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0055" x="1843" y="3023" width="615" height="510" frameX="-21" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0056" x="2458" y="3023" width="616" height="510" frameX="-20" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0057" x="3074" y="3023" width="612" height="510" frameX="-24" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0058" x="3686" y="3023" width="615" height="510" frameX="-21" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0059" x="4301" y="3023" width="616" height="510" frameX="-20" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0060" x="4917" y="3023" width="612" height="510" frameX="-24" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0061" x="5529" y="3023" width="615" height="510" frameX="-21" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0062" x="6144" y="3023" width="616" height="510" frameX="-20" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0063" x="6760" y="3023" width="612" height="510" frameX="-24" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0064" x="7372" y="3023" width="615" height="510" frameX="-21" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0065" x="0" y="3533" width="616" height="510" frameX="-20" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0066" x="616" y="3533" width="612" height="510" frameX="-24" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0067" x="1228" y="3533" width="615" height="510" frameX="-21" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0068" x="1843" y="3533" width="616" height="510" frameX="-20" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0069" x="2459" y="3533" width="612" height="510" frameX="-24" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0070" x="3071" y="3533" width="615" height="510" frameX="-21" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0071" x="3686" y="3533" width="615" height="510" frameX="-20" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0072" x="4301" y="3533" width="611" height="510" frameX="-24" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0073" x="4912" y="3533" width="615" height="510" frameX="-21" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0074" x="5527" y="3533" width="616" height="510" frameX="-20" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0075" x="6143" y="3533" width="612" height="510" frameX="-24" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0076" x="6755" y="3533" width="615" height="510" frameX="-21" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0077" x="7370" y="3533" width="616" height="510" frameX="-20" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0078" x="0" y="4043" width="612" height="510" frameX="-24" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0079" x="612" y="4043" width="615" height="510" frameX="-21" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0080" x="1227" y="4043" width="616" height="510" frameX="-20" frameY="-14" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0081" x="1843" y="4043" width="611" height="524" frameX="-24" frameY="0" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0082" x="2454" y="4043" width="602" height="524" frameX="-21" frameY="0" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0083" x="3056" y="4043" width="615" height="521" frameX="-20" frameY="-3" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0084" x="3671" y="4043" width="619" height="507" frameX="-20" frameY="-17" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0085" x="4290" y="4043" width="670" height="505" frameX="-20" frameY="-19" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0086" x="4960" y="4043" width="671" height="505" frameX="-19" frameY="-19" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0087" x="5631" y="4043" width="673" height="508" frameX="-23" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0088" x="6304" y="4043" width="676" height="508" frameX="-20" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0089" x="6980" y="4043" width="677" height="508" frameX="-19" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0090" x="0" y="4567" width="673" height="508" frameX="-23" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0091" x="673" y="4567" width="676" height="508" frameX="-20" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0092" x="1349" y="4567" width="677" height="508" frameX="-19" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0093" x="2026" y="4567" width="673" height="508" frameX="-23" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0094" x="2699" y="4567" width="676" height="508" frameX="-20" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0095" x="1349" y="4567" width="677" height="508" frameX="-19" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0096" x="2026" y="4567" width="673" height="508" frameX="-23" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0097" x="2699" y="4567" width="676" height="508" frameX="-20" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0098" x="1349" y="4567" width="677" height="508" frameX="-19" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0099" x="2026" y="4567" width="673" height="508" frameX="-23" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0100" x="2699" y="4567" width="676" height="508" frameX="-20" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0101" x="1349" y="4567" width="677" height="508" frameX="-19" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0102" x="2026" y="4567" width="673" height="508" frameX="-23" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0103" x="2699" y="4567" width="676" height="508" frameX="-20" frameY="-16" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0104" x="3375" y="4567" width="676" height="503" frameX="-19" frameY="-21" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0105" x="4051" y="4567" width="672" height="503" frameX="-23" frameY="-21" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0106" x="4723" y="4567" width="676" height="493" frameX="-13" frameY="-31" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0107" x="5399" y="4567" width="677" height="493" frameX="-12" frameY="-31" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0108" x="6076" y="4567" width="447" height="495" frameX="-123" frameY="-30" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0109" x="6523" y="4567" width="447" height="495" frameX="-123" frameY="-30" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0110" x="6970" y="4567" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0111" x="7416" y="4567" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0112" x="0" y="5075" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0113" x="6970" y="4567" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0114" x="7416" y="4567" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0115" x="0" y="5075" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0116" x="6970" y="4567" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0117" x="7416" y="4567" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0118" x="0" y="5075" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0119" x="6970" y="4567" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0120" x="7416" y="4567" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0121" x="0" y="5075" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0122" x="6970" y="4567" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0123" x="7416" y="4567" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd hehey0124" x="0" y="5075" width="446" height="499" frameX="-127" frameY="-26" frameWidth="696" frameHeight="525"/>
+	<SubTexture name="Nerd idle0000" x="446" y="5075" width="566" height="445" frameX="-11" frameY="-39" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0001" x="446" y="5075" width="566" height="445" frameX="-11" frameY="-39" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0002" x="1012" y="5075" width="565" height="446" frameX="-6" frameY="-38" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0003" x="1012" y="5075" width="565" height="446" frameX="-6" frameY="-38" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0004" x="1577" y="5075" width="561" height="467" frameX="-4" frameY="-17" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0005" x="1577" y="5075" width="561" height="467" frameX="-4" frameY="-17" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0006" x="2138" y="5075" width="555" height="480" frameX="0" frameY="-4" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0007" x="2138" y="5075" width="555" height="480" frameX="0" frameY="-4" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0008" x="2693" y="5075" width="553" height="483" frameX="0" frameY="0" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0009" x="2693" y="5075" width="553" height="483" frameX="0" frameY="0" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0010" x="2693" y="5075" width="553" height="483" frameX="0" frameY="0" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0011" x="2693" y="5075" width="553" height="483" frameX="0" frameY="0" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0012" x="2693" y="5075" width="553" height="483" frameX="0" frameY="0" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0013" x="2693" y="5075" width="553" height="483" frameX="0" frameY="0" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd idle0014" x="2693" y="5075" width="553" height="483" frameX="0" frameY="0" frameWidth="577" frameHeight="484"/>
+	<SubTexture name="Nerd left0000" x="3246" y="5075" width="506" height="458" frameX="0" frameY="-4" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0001" x="3246" y="5075" width="506" height="458" frameX="0" frameY="-4" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0002" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0003" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0004" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0005" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0006" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0007" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0008" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0009" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0010" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0011" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0012" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0013" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd left0014" x="3752" y="5075" width="499" height="462" frameX="-4" frameY="0" frameWidth="506" frameHeight="462"/>
+	<SubTexture name="Nerd right0000" x="4251" y="5075" width="625" height="500" frameX="-13" frameY="0" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0001" x="4251" y="5075" width="625" height="500" frameX="-13" frameY="0" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0002" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0003" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0004" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0005" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0006" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0007" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0008" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0009" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0010" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0011" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0012" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0013" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd right0014" x="4876" y="5075" width="624" height="492" frameX="0" frameY="-8" frameWidth="638" frameHeight="500"/>
+	<SubTexture name="Nerd shall we0000" x="5500" y="5075" width="552" height="466" frameX="-4" frameY="-19" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0001" x="5500" y="5075" width="552" height="466" frameX="-4" frameY="-19" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0002" x="6052" y="5075" width="552" height="466" frameX="-4" frameY="-19" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0003" x="6604" y="5075" width="542" height="472" frameX="-7" frameY="-13" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0004" x="6604" y="5075" width="542" height="472" frameX="-7" frameY="-13" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0005" x="7146" y="5075" width="544" height="471" frameX="-5" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0006" x="0" y="5575" width="544" height="471" frameX="-5" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0007" x="0" y="5575" width="544" height="471" frameX="-5" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0008" x="544" y="5575" width="544" height="471" frameX="-5" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0009" x="544" y="5575" width="544" height="471" frameX="-5" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0010" x="1088" y="5575" width="544" height="471" frameX="-5" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0011" x="1632" y="5575" width="544" height="471" frameX="-5" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0012" x="2176" y="5575" width="544" height="471" frameX="-5" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0013" x="2176" y="5575" width="544" height="471" frameX="-5" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0014" x="2720" y="5575" width="545" height="469" frameX="-5" frameY="-16" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0015" x="3265" y="5575" width="545" height="469" frameX="-5" frameY="-16" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0016" x="3810" y="5575" width="545" height="469" frameX="-5" frameY="-16" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0017" x="4355" y="5575" width="545" height="469" frameX="-5" frameY="-16" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0018" x="4900" y="5575" width="545" height="469" frameX="-5" frameY="-16" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0019" x="5445" y="5575" width="532" height="474" frameX="-11" frameY="-11" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0020" x="5977" y="5575" width="532" height="474" frameX="-11" frameY="-11" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0021" x="6509" y="5575" width="535" height="472" frameX="-9" frameY="-13" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0022" x="7044" y="5575" width="535" height="472" frameX="-9" frameY="-13" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0023" x="7579" y="5575" width="536" height="471" frameX="-8" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0024" x="7579" y="5575" width="536" height="471" frameX="-8" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0025" x="7579" y="5575" width="536" height="471" frameX="-8" frameY="-14" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0026" x="0" y="6049" width="569" height="474" frameX="0" frameY="-11" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0027" x="569" y="6049" width="446" height="470" frameX="-140" frameY="-15" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0028" x="1015" y="6049" width="446" height="470" frameX="-140" frameY="-15" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0029" x="1461" y="6049" width="453" height="474" frameX="-138" frameY="-11" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0030" x="1914" y="6049" width="461" height="485" frameX="-143" frameY="0" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0031" x="2375" y="6049" width="461" height="485" frameX="-143" frameY="0" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0032" x="2836" y="6049" width="463" height="483" frameX="-143" frameY="-2" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0033" x="3299" y="6049" width="463" height="483" frameX="-143" frameY="-2" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0034" x="3762" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0035" x="4223" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0036" x="4223" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0037" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0038" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0039" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0040" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0041" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0042" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0043" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0044" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0045" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0046" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0047" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0048" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0049" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0050" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0051" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0052" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd shall we0053" x="4684" y="6049" width="461" height="482" frameX="-143" frameY="-3" frameWidth="606" frameHeight="485"/>
+	<SubTexture name="Nerd up0000" x="5145" y="6049" width="549" height="516" frameX="-1" frameY="0" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0001" x="5145" y="6049" width="549" height="516" frameX="-1" frameY="0" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0002" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0003" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0004" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0005" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0006" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0007" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0008" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0009" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0010" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0011" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0012" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0013" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+	<SubTexture name="Nerd up0014" x="5694" y="6049" width="551" height="505" frameX="0" frameY="-11" frameWidth="551" frameHeight="516"/>
+</TextureAtlas>

@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf death.png">
+<SubTexture name="bf death bf death0000" x="9889" y="4421" width="515" height="485" frameX="-568" frameY="-349" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0001" x="8688" y="7268" width="517" height="478" frameX="-591" frameY="-334" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0002" x="8688" y="7268" width="517" height="478" frameX="-591" frameY="-334" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0003" x="9201" y="7746" width="514" height="469" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0004" x="9205" y="7268" width="514" height="471" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0005" x="9205" y="7268" width="514" height="471" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0006" x="9205" y="7268" width="514" height="471" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0007" x="9205" y="7268" width="514" height="471" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0008" x="9205" y="7268" width="514" height="471" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0009" x="9201" y="7746" width="514" height="469" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0010" x="9201" y="7746" width="514" height="469" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0011" x="9201" y="7746" width="514" height="469" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0012" x="9201" y="7746" width="514" height="469" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0013" x="9205" y="7268" width="514" height="471" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0014" x="9205" y="7268" width="514" height="471" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0015" x="9205" y="7268" width="514" height="471" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0016" x="9205" y="7268" width="514" height="471" frameX="-590" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0017" x="9719" y="7268" width="513" height="471" frameX="-591" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0018" x="8688" y="7746" width="513" height="471" frameX="-591" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0019" x="9888" y="3808" width="503" height="488" frameX="-601" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0020" x="9888" y="3808" width="503" height="488" frameX="-601" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0021" x="9926" y="1298" width="524" height="565" frameX="-580" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0022" x="9930" y="1930" width="524" height="565" frameX="-580" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0023" x="8688" y="3194" width="585" height="614" frameX="-519" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0024" x="8688" y="3194" width="585" height="614" frameX="-519" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0025" x="8688" y="3808" width="595" height="613" frameX="-509" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0026" x="8688" y="3808" width="595" height="613" frameX="-509" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0027" x="8688" y="4421" width="599" height="608" frameX="-505" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0028" x="8688" y="4421" width="599" height="608" frameX="-505" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0029" x="9287" y="4421" width="602" height="606" frameX="-502" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0030" x="9287" y="4421" width="602" height="606" frameX="-502" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0031" x="9283" y="3808" width="605" height="609" frameX="-499" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0032" x="9273" y="3194" width="608" height="614" frameX="-496" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0033" x="8688" y="1298" width="618" height="632" frameX="-486" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0034" x="8688" y="1298" width="618" height="632" frameX="-486" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0035" x="9306" y="1298" width="620" height="632" frameX="-484" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0036" x="8688" y="1930" width="620" height="632" frameX="-484" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0037" x="9310" y="2562" width="621" height="631" frameX="-483" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0038" x="9310" y="2562" width="621" height="631" frameX="-483" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0039" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0040" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0041" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0042" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0043" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0044" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0045" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0046" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0047" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0048" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0049" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0050" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0051" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0052" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0053" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0054" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0055" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0056" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0057" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0058" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0059" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0060" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0061" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0062" x="8688" y="2562" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0063" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0064" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0065" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0066" x="9308" y="1930" width="622" height="632" frameX="-482" frameY="-344" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0067" x="0" y="4743" width="1054" height="649" frameX="-50" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0068" x="1054" y="4743" width="1054" height="649" frameX="-50" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0069" x="2108" y="4743" width="1003" height="649" frameX="-101" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0070" x="2108" y="4743" width="1003" height="649" frameX="-101" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0071" x="3111" y="4743" width="953" height="649" frameX="-151" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0072" x="4064" y="4743" width="953" height="649" frameX="-151" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0073" x="5516" y="0" width="902" height="649" frameX="-202" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0074" x="5516" y="0" width="902" height="649" frameX="-202" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0075" x="5516" y="649" width="852" height="649" frameX="-252" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0076" x="5516" y="1298" width="852" height="649" frameX="-252" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0077" x="5516" y="1947" width="801" height="649" frameX="-303" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0078" x="5516" y="1947" width="801" height="649" frameX="-303" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0079" x="5516" y="2596" width="750" height="649" frameX="-354" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0080" x="5516" y="3245" width="750" height="649" frameX="-354" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0081" x="5516" y="3894" width="700" height="649" frameX="-404" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0082" x="5516" y="3894" width="700" height="649" frameX="-404" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0083" x="5516" y="4543" width="649" height="649" frameX="-455" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0084" x="4836" y="1498" width="649" height="649" frameX="-455" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0085" x="4836" y="2147" width="622" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0086" x="4836" y="2147" width="622" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0087" x="4836" y="2796" width="667" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0088" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0089" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0090" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0091" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0092" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0093" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0094" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0095" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0096" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0097" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0098" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0099" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0100" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0101" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0102" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0103" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0104" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0105" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0106" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0107" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0108" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0109" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0110" x="0" y="0" width="672" height="865" frameX="-482" frameY="-111" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0111" x="672" y="0" width="672" height="863" frameX="-482" frameY="-113" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0112" x="1344" y="0" width="672" height="859" frameX="-482" frameY="-117" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0113" x="0" y="865" width="672" height="849" frameX="-482" frameY="-127" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0114" x="672" y="865" width="672" height="820" frameX="-482" frameY="-156" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0115" x="4836" y="3445" width="672" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0116" x="4836" y="3445" width="672" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0117" x="4836" y="4094" width="667" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0118" x="0" y="5392" width="737" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0119" x="737" y="5392" width="697" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0120" x="737" y="5392" width="697" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0121" x="1434" y="5392" width="692" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0122" x="1434" y="5392" width="692" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0123" x="2126" y="5392" width="767" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0124" x="2893" y="5392" width="836" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0125" x="3729" y="5392" width="876" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0126" x="3729" y="5392" width="876" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0127" x="4605" y="5392" width="951" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0128" x="4605" y="5392" width="951" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0129" x="6418" y="0" width="946" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0130" x="0" y="6041" width="1016" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0131" x="1016" y="6041" width="976" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0132" x="1016" y="6041" width="976" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0133" x="1992" y="6041" width="971" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0134" x="1992" y="6041" width="971" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0135" x="2963" y="6041" width="1046" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0136" x="4009" y="6041" width="1115" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0137" x="5124" y="6041" width="1155" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0138" x="5124" y="6041" width="1155" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0139" x="0" y="6690" width="1230" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0140" x="0" y="6690" width="1230" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0141" x="1230" y="6690" width="1225" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0142" x="2455" y="6690" width="1295" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0143" x="3750" y="6690" width="1255" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0144" x="3750" y="6690" width="1255" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0145" x="5005" y="6690" width="1250" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0146" x="5005" y="6690" width="1250" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0147" x="7364" y="0" width="1324" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0148" x="0" y="7339" width="1394" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0149" x="1394" y="7339" width="1434" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0150" x="1394" y="7339" width="1434" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0151" x="2828" y="7339" width="1508" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0152" x="2828" y="7339" width="1508" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0153" x="4336" y="7339" width="1504" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0154" x="5840" y="7339" width="1573" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0155" x="0" y="7988" width="1533" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0156" x="0" y="7988" width="1533" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0157" x="1533" y="7988" width="1528" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0158" x="1533" y="7988" width="1528" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0159" x="3061" y="7988" width="1603" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0160" x="4664" y="7988" width="1673" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0161" x="6337" y="7988" width="1713" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0162" x="6337" y="7988" width="1713" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0163" x="8688" y="0" width="1787" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0164" x="8688" y="0" width="1787" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0165" x="0" y="8637" width="1829" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0166" x="0" y="8637" width="1829" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0167" x="1829" y="8637" width="1789" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0168" x="3618" y="8637" width="1858" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0169" x="8688" y="649" width="1784" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0170" x="8688" y="649" width="1784" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0171" x="5476" y="8637" width="1928" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0172" x="5476" y="8637" width="1928" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0173" x="7404" y="8637" width="1968" height="649" frameX="-482" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0174" x="8688" y="5029" width="1771" height="577" frameX="-749" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0175" x="8688" y="5606" width="1776" height="577" frameX="-749" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0176" x="8688" y="6183" width="1736" height="577" frameX="-789" frameY="-327" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0177" x="10246" y="6760" width="148" height="193" frameX="-789" frameY="-448" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0178" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0179" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0180" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0181" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0182" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0183" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0184" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0185" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0186" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0187" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0188" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0189" x="10246" y="6953" width="156" height="153" frameX="-785" frameY="-468" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0190" x="7973" y="1048" width="360" height="390" frameX="-581" frameY="-231" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0191" x="7973" y="1048" width="360" height="390" frameX="-581" frameY="-231" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0192" x="9715" y="7746" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0193" x="9715" y="7746" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0194" x="9715" y="7746" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0195" x="10088" y="7746" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0196" x="10088" y="7746" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0197" x="8688" y="8217" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0198" x="8688" y="8217" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0199" x="8688" y="8217" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0200" x="8688" y="8217" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0201" x="9061" y="8217" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0202" x="9061" y="8217" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0203" x="9434" y="8217" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0204" x="9434" y="8217" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0205" x="9434" y="8217" width="373" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0206" x="9807" y="8217" width="489" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0207" x="9807" y="8217" width="489" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0208" x="7364" y="649" width="482" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0209" x="7364" y="649" width="482" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0210" x="7364" y="649" width="482" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0211" x="7364" y="649" width="482" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0212" x="7846" y="649" width="618" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0213" x="7846" y="649" width="618" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0214" x="7364" y="1048" width="609" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0215" x="7364" y="1048" width="609" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0216" x="7364" y="1048" width="609" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0217" x="7364" y="1048" width="609" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0218" x="7364" y="1048" width="609" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0219" x="7364" y="1048" width="609" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0220" x="7364" y="1048" width="609" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death0221" x="7364" y="1048" width="609" height="399" frameX="-568" frameY="-222" frameWidth="2594" frameHeight="976" />
+<SubTexture name="bf death bf death loop0000" x="2780" y="3989" width="680" height="749" frameX="-195" frameY="-146" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0001" x="2016" y="0" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0002" x="2016" y="0" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0003" x="2736" y="758" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0004" x="2736" y="1515" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0005" x="3444" y="0" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0006" x="3444" y="0" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0007" x="4141" y="0" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0008" x="4141" y="0" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0009" x="4141" y="0" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0010" x="4141" y="0" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0011" x="4141" y="0" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0012" x="4141" y="754" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0013" x="4141" y="754" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0014" x="4141" y="754" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0015" x="3460" y="3989" width="680" height="749" frameX="-195" frameY="-146" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0016" x="2016" y="763" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0017" x="2016" y="763" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0018" x="0" y="2477" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0019" x="0" y="2477" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0020" x="3444" y="755" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0021" x="3444" y="755" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0022" x="4141" y="754" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0023" x="4141" y="1508" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0024" x="4141" y="1508" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0025" x="4141" y="2262" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0026" x="4141" y="2262" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0027" x="4141" y="3016" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0028" x="4141" y="3016" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0029" x="4141" y="754" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0030" x="3460" y="3989" width="680" height="749" frameX="-195" frameY="-146" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0031" x="2016" y="763" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0032" x="2016" y="763" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0033" x="699" y="2477" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0034" x="699" y="2477" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0035" x="3444" y="1510" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0036" x="3444" y="1510" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0037" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0038" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0039" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0040" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0041" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0042" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0043" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0044" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0045" x="4140" y="3989" width="680" height="749" frameX="-195" frameY="-146" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0046" x="0" y="1714" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0047" x="0" y="1714" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0048" x="1398" y="2477" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0049" x="1398" y="2477" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0050" x="3444" y="2265" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0051" x="3444" y="2265" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0052" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0053" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0054" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0055" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0056" x="0" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0057" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0058" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0059" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0060" x="4836" y="0" width="680" height="749" frameX="-195" frameY="-146" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0061" x="720" y="1714" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0062" x="720" y="1714" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0063" x="2097" y="2477" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0064" x="2097" y="2477" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0065" x="0" y="3234" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0066" x="0" y="3234" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0067" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0068" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0069" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0070" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0071" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0072" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0073" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0074" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0075" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0076" x="4836" y="0" width="680" height="749" frameX="-195" frameY="-146" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0077" x="720" y="1714" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0078" x="720" y="1714" width="720" height="763" frameX="-195" frameY="-132" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0079" x="2097" y="2477" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0080" x="2097" y="2477" width="699" height="757" frameX="-195" frameY="-138" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0081" x="0" y="3234" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0082" x="0" y="3234" width="697" height="755" frameX="-195" frameY="-140" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0083" x="695" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0084" x="1390" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0085" x="1390" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0086" x="1390" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0087" x="1390" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0088" x="4141" y="2262" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0089" x="4141" y="2262" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death loop0090" x="2085" y="3989" width="695" height="754" frameX="-195" frameY="-141" frameWidth="1198" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0000" x="4836" y="749" width="679" height="749" frameX="-687" frameY="-146" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0001" x="1440" y="1714" width="720" height="763" frameX="-687" frameY="-132" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0002" x="1440" y="1714" width="720" height="763" frameX="-687" frameY="-132" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0003" x="2736" y="0" width="708" height="758" frameX="-687" frameY="-137" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0004" x="2736" y="0" width="708" height="758" frameX="-687" frameY="-137" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0005" x="697" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0006" x="697" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0007" x="9931" y="2562" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0008" x="9931" y="2562" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0009" x="9931" y="2562" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0010" x="1400" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0011" x="1400" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0012" x="1400" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0013" x="1400" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0014" x="9931" y="2562" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0015" x="9931" y="2562" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0016" x="9931" y="2562" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0017" x="9931" y="2562" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0018" x="1400" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0019" x="1400" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0020" x="1400" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0021" x="1400" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0022" x="9931" y="2562" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0023" x="9931" y="2562" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0024" x="9881" y="3194" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0025" x="9881" y="3194" width="458" height="508" frameX="-687" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0026" x="2103" y="3234" width="703" height="755" frameX="-687" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0027" x="2806" y="3234" width="730" height="755" frameX="-660" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0028" x="2806" y="3234" width="730" height="755" frameX="-660" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0029" x="2806" y="3234" width="730" height="755" frameX="-660" frameY="-140" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0030" x="8688" y="6760" width="614" height="508" frameX="-330" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0031" x="8688" y="6760" width="614" height="508" frameX="-330" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0032" x="8688" y="6760" width="614" height="508" frameX="-330" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0033" x="9302" y="6760" width="944" height="508" frameX="0" frameY="-387" frameWidth="1690" frameHeight="895" />
+<SubTexture name="bf death bf death confirm0034" x="8333" y="1048" width="257" height="143" frameX="-687" frameY="-752" frameWidth="1690" frameHeight="895" />
+</TextureAtlas>

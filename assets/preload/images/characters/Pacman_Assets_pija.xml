@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pacman_Assets_pija2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PacDown0000" x="0" y="0" width="558" height="388"/>
+	<SubTexture name="PacDown0001" x="568" y="0" width="558" height="388"/>
+	<SubTexture name="PacDown0002" x="568" y="0" width="558" height="388"/>
+	<SubTexture name="PacDown0003" x="1136" y="0" width="558" height="388"/>
+	<SubTexture name="PacDown0004" x="1136" y="0" width="558" height="388"/>
+	<SubTexture name="PacDown0005" x="1136" y="0" width="558" height="388"/>
+	<SubTexture name="PacDown0006" x="1136" y="0" width="558" height="388"/>
+	<SubTexture name="PacIdle0000" x="0" y="398" width="406" height="442"/>
+	<SubTexture name="PacIdle0001" x="416" y="398" width="406" height="442"/>
+	<SubTexture name="PacIdle0002" x="416" y="398" width="406" height="442"/>
+	<SubTexture name="PacIdle0003" x="832" y="398" width="406" height="442"/>
+	<SubTexture name="PacIdle0004" x="832" y="398" width="406" height="442"/>
+	<SubTexture name="PacIdle0005" x="1248" y="398" width="406" height="442"/>
+	<SubTexture name="PacIdle0006" x="1248" y="398" width="406" height="442"/>
+	<SubTexture name="PacIdle0007" x="1248" y="398" width="406" height="442"/>
+	<SubTexture name="PacIdle0008" x="0" y="850" width="406" height="442"/>
+	<SubTexture name="PacIdle0009" x="0" y="850" width="406" height="442"/>
+	<SubTexture name="PacIdle0010" x="0" y="850" width="406" height="442"/>
+	<SubTexture name="PacLeft0000" x="416" y="850" width="481" height="480"/>
+	<SubTexture name="PacLeft0001" x="907" y="850" width="481" height="480"/>
+	<SubTexture name="PacLeft0002" x="907" y="850" width="481" height="480"/>
+	<SubTexture name="PacLeft0003" x="1398" y="850" width="481" height="480"/>
+	<SubTexture name="PacLeft0004" x="1398" y="850" width="481" height="480"/>
+	<SubTexture name="PacLeft0005" x="1398" y="850" width="481" height="480"/>
+	<SubTexture name="PacLeft0006" x="1398" y="850" width="481" height="480"/>
+	<SubTexture name="PacRight0000" x="0" y="1340" width="488" height="476"/>
+	<SubTexture name="PacRight0001" x="498" y="1340" width="488" height="476"/>
+	<SubTexture name="PacRight0002" x="498" y="1340" width="488" height="476"/>
+	<SubTexture name="PacRight0003" x="996" y="1340" width="488" height="476"/>
+	<SubTexture name="PacRight0004" x="996" y="1340" width="488" height="476"/>
+	<SubTexture name="PacRight0005" x="996" y="1340" width="488" height="476"/>
+	<SubTexture name="PacRight0006" x="996" y="1340" width="488" height="476"/>
+	<SubTexture name="PacUp0000" x="1494" y="1340" width="495" height="778"/>
+	<SubTexture name="PacUp0001" x="0" y="2128" width="495" height="778"/>
+	<SubTexture name="PacUp0002" x="0" y="2128" width="495" height="778"/>
+	<SubTexture name="PacUp0003" x="505" y="2128" width="495" height="778"/>
+	<SubTexture name="PacUp0004" x="505" y="2128" width="495" height="778"/>
+	<SubTexture name="PacUp0005" x="505" y="2128" width="495" height="778"/>
+	<SubTexture name="PacUp0006" x="505" y="2128" width="495" height="778"/>
+</TextureAtlas>
