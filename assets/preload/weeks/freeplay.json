@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Judger", "Judger_Freeplay_Assets", [108, 128, 150], [0, 10], [1, 1]],
+		["Professional Smoker", "Crackman_Freeplay_Assets", [158, 12, 67], [25, 65], [1, 1]],
+		["SDLG", "SDLG_Freeplay_Assets", [255, 0, 0], [15, 20], [1, 1]],
+		["Too Smart", "Nerd_Freeplay_Assets", [76, 173, 87], [-50, 0], [1, 1]],
+		["Epic", "Epic_Freeplay_Assets", [176, 20, 236], [0, 0], [1, 1]],
+		["True Force", "PacAttack_Freeplay_Assets", [253, 113, 28], [0, 0], [1, 1]],
+		["Paman", "Paman_Freeplay_Assets", [255, 255, 255], [0, 75], [1, 1]],
+		["Why", "Sic_Freeplay_Assets", [159, 243, 143], [0, 65], [0.92, 0.92]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
