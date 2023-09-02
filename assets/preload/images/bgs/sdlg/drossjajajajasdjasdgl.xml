@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drossjajajajasdjasdgl.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UNSALUDOALAGRASA0000" x="0" y="0" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="UNSALUDOALAGRASA0001" x="640" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0002" x="1280" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0003" x="1920" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0004" x="2560" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0005" x="3200" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0006" x="3840" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0007" x="4480" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0008" x="5120" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0009" x="5760" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0010" x="6400" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0011" x="7040" y="0" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0012" x="0" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0013" x="640" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0014" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0015" x="1920" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0016" x="2560" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0017" x="3200" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0018" x="3840" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0019" x="4480" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0020" x="5120" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0021" x="5760" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0022" x="6400" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0023" x="7040" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0024" x="0" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0025" x="640" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0026" x="1280" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0027" x="1920" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0028" x="2560" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0029" x="3200" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0030" x="3840" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0031" x="4480" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0032" x="5120" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0033" x="5760" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0034" x="6400" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0035" x="7040" y="720" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0036" x="0" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0037" x="640" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0038" x="1280" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0039" x="1920" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0040" x="2560" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0041" x="3200" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0042" x="3840" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0043" x="4480" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0044" x="5120" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0045" x="5760" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0046" x="6400" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0047" x="7040" y="1080" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0048" x="0" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0049" x="640" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0050" x="1280" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0051" x="1920" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0052" x="2560" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0053" x="3200" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0054" x="3840" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0055" x="4480" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0056" x="5120" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0057" x="5760" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0058" x="6400" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0059" x="7040" y="1440" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0060" x="0" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0061" x="640" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0062" x="1280" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0063" x="1920" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0064" x="2560" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0065" x="3200" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0066" x="3840" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0067" x="4480" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0068" x="5120" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0069" x="5760" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0070" x="6400" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA0071" x="7040" y="1800" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA idle0000" x="1280" y="360" width="640" height="360" pivotX="0" pivotY="0"/>
+	<SubTexture name="UNSALUDOALAGRASA idle0001" x="1280" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA idle0002" x="1920" y="360" width="640" height="360"/>
+	<SubTexture name="UNSALUDOALAGRASA idle0003" x="1920" y="360" width="640" height="360"/>
+</TextureAtlas>
