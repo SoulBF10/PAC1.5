@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				193,
+				269
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hapi feis idel"
+		},
+		{
+			"offsets": [
+				327,
+				259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hapi feis note left"
+		},
+		{
+			"offsets": [
+				208,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hapi feis note down"
+		},
+		{
+			"offsets": [
+				184,
+				337
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hapi feis note ap"
+		},
+		{
+			"offsets": [
+				87,
+				251
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hapi feis note right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hapifeis",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "epicface",
+	"flip_x": false,
+	"healthbar_colors": [
+		250,
+		215,
+		6
+	],
+	"camera_position": [
+		-160,
+		-370
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

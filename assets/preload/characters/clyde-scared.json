@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ScaredSeso Idle1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "ScaredSeso Idle2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ScaredSeso Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ScaredSeso Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				139
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ScaredSeso Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ScaredSeso Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ScaredSeso MissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				-11
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ScaredSeso MissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				139
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "ScaredSeso MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-86
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ScaredSeso MissDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				82,
+				187
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "ScaredSeso First Dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pack_Attack_Assets",
+	"position": [
+		250,
+		380
+	],
+	"healthicon": "clyde-scared",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		106,
+		0
+	],
+	"camera_position": [
+		50,
+		80
+	],
+	"sing_duration": 5,
+	"scale": 1.1
+}

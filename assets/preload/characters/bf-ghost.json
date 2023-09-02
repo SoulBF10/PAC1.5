@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				5,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-7,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-66,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-47,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				176
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				159
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				216
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				183
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				210
+			],
+			"anim": "go time",
+			"fps": 25,
+			"name": "transform instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				200
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "end",
+			"loop": false,
+			"name": "bf stop pacman instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_ghost",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-50,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

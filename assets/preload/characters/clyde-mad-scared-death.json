@@ -1,0 +1,61 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				100
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "ScaredSeso First",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				130,
+				100
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "ScaredSeso First Dead",
+			"indices": [
+				64,
+				65,
+				66,
+				67
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				100
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "ScaredSeso Comfirm Dead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pack_Attack_Assets",
+	"position": [
+		250,
+		380
+	],
+	"healthicon": "clyde-scared",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		106,
+		0
+	],
+	"camera_position": [
+		50,
+		10
+	],
+	"sing_duration": 5,
+	"scale": 1.1
+}

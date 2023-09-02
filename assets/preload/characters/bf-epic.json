@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				350,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				479,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf left0"
+		},
+		{
+			"offsets": [
+				350,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down0"
+		},
+		{
+			"offsets": [
+				352,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf up0"
+		},
+		{
+			"offsets": [
+				100,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf right0"
+		},
+		{
+			"offsets": [
+				479,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf left miss"
+		},
+		{
+			"offsets": [
+				350,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf down miss"
+		},
+		{
+			"offsets": [
+				352,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf up miss"
+		},
+		{
+			"offsets": [
+				100,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf right miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/epic_face_bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		440,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

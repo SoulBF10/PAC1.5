@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-256
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Blinky Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-267
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Blinky Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-224
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Blinky Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-255
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Blinky Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-251
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Blinky Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blinkyfever",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "blinky-fever",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		0,
+		0
+	],
+	"camera_position": [
+		-40,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

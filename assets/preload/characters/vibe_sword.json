@@ -2,187 +2,143 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
+				174,
+				117
 			],
-			"loop": false,
+			"loop": true,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "vibe check idle dance"
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				250,
+				-160
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"name": "vibe check left0"
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				190,
+				-115
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "vibe check down0"
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				504,
+				198
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BF NOTE UP0"
+			"name": "vibe check up0"
 		},
 		{
 			"offsets": [
-				-48,
-				-7
+				170,
+				44
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "vibe check right0"
 		},
 		{
 			"offsets": [
-				7,
-				19
+				259,
+				-187
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"name": "vibe check left miss"
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				190,
+				-150
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"name": "vibe check down miss"
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				514,
+				200
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
 			"indices": [],
-			"name": "BF NOTE UP MISS"
+			"name": "vibe check up miss"
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				167,
+				46
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
+			"name": "vibe check right miss"
 		},
 		{
 			"offsets": [
-				-3,
-				5
+				500,
+				304
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "hey",
+			"anim": "sword",
 			"indices": [],
-			"name": "BF HEY"
+			"name": "vibe check pulls sword"
 		},
 		{
 			"offsets": [
-				14,
-				18
+				620,
+				540
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "hurt",
+			"anim": "jump",
 			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
-				-10,
-				-16
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
+			"name": "salto"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/vibe/Vibe_Check_Sword",
 	"position": [
-		0,
-		350
-	],
-	"healthicon": "bf",
-	"flip_x": true,
-	"healthbar_colors": [
-		49,
-		176,
-		209
-	],
-	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"healthicon": "vibe",
+	"flip_x": true,
+	"healthbar_colors": [
+		210,
+		175,
+		87
+	],
+	"camera_position": [
+		210,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 2
 }

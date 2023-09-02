@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				5,
+				175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-7,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-66,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-47,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				5,
+				176
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Rleft"
+		},
+		{
+			"offsets": [
+				-20,
+				139
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Rdown"
+		},
+		{
+			"offsets": [
+				-65,
+				216
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Rup"
+		},
+		{
+			"offsets": [
+				-48,
+				183
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_ghost_running",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-50,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

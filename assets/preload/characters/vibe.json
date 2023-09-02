@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-280
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "vibe check idle dance"
+		},
+		{
+			"offsets": [
+				90,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "vibe check left0"
+		},
+		{
+			"offsets": [
+				20,
+				-325
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "vibe check down0"
+		},
+		{
+			"offsets": [
+				294,
+				-202
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "vibe check up0"
+		},
+		{
+			"offsets": [
+				-10,
+				-276
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "vibe check right0"
+		},
+		{
+			"offsets": [
+				89,
+				-187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "vibe check left miss"
+		},
+		{
+			"offsets": [
+				20,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "vibe check down miss"
+		},
+		{
+			"offsets": [
+				294,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "vibe check up miss"
+		},
+		{
+			"offsets": [
+				-3,
+				-204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "vibe check right miss"
+		},
+		{
+			"offsets": [
+				510,
+				304
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sword",
+			"indices": [],
+			"name": "vibe check pulls sword"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vibe/Vibe_Check",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "vibe",
+	"flip_x": true,
+	"healthbar_colors": [
+		210,
+		175,
+		87
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-148,
+				-199
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SLDG Note Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-148,
+				-199
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SLDG Note Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-148,
+				-170
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SLDG Note Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-148,
+				-199
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SLDG Note Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-148,
+				-199
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "SLDG Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-148,
+				-199
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ash",
+			"loop": false,
+			"name": "se asusta el nub"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SDLG",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sdlg",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		200,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 2.6
+}

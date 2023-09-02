@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				137
+			],
+			"anim": "ups",
+			"fps": 24,
+			"name": "ups",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Nerd idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				150
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF Nerd right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				133
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF Nerd left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				105
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Nerd down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				161
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF Miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				134
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF Miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				151
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF Miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				102
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF Miss down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				73,
+				171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Nerd up"
+		},
+		{
+			"offsets": [
+				140,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BF Nerd first dead"
+		},
+		{
+			"offsets": [
+				140,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deadLoop",
+			"loop": true,
+			"name": "BF Nerd dead loop"
+		},
+		{
+			"offsets": [
+				140,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstComfirm",
+			"loop": false,
+			"name": "BF Nerd dead comfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_nerd",
+	"position": [
+		40,
+		410
+	],
+	"healthicon": "nerdb",
+	"flip_x": true,
+	"healthbar_colors": [
+		38,
+		57,
+		118
+	],
+	"camera_position": [
+		170,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

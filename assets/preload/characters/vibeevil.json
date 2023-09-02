@@ -1,0 +1,163 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-280
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "judger idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				710,
+				-277
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "judger down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			]
+		},
+		{
+			"offsets": [
+				746,
+				527
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "judger up"
+		},
+		{
+			"offsets": [
+				1314,
+				-264
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "judger right"
+		},
+		{
+			"offsets": [
+				384,
+				-220
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "judger left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vibe/vibecheck",
+	"position": [
+		320,
+		340
+	],
+	"healthicon": "judger",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		187,
+		58
+	],
+	"camera_position": [-1000,-100],
+	"sing_duration": 6.1,
+	"scale": 2
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				888,
+				726
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF Nerd first dead",
+			"indices": []
+		},
+		{
+			"offsets": [
+				887,
+				726
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Nerd dead comfirm"
+		},
+		{
+			"offsets": [
+				886,
+				726
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Nerd dead loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_nerd",
+	"position": [
+		420,
+		1390
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1250,
+		-910
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

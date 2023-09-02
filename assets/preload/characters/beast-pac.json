@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Beast Idle"
+		},
+		{
+			"offsets": [
+				120,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Beast Left"
+		},
+		{
+			"offsets": [
+				2,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Beast Down"
+		},
+		{
+			"offsets": [
+				34,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Beast Up"
+		},
+		{
+			"offsets": [
+				-140,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Beast Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pacman_Phase_2_Assets",
+	"position": [
+		150,
+		350
+	],
+	"healthicon": "beast-pac",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		212,
+		1
+	],
+	"camera_position": [
+		10,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

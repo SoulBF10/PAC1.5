@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pacman Head idle"
+		},
+		{
+			"offsets": [
+				19,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pacman Head left"
+		},
+		{
+			"offsets": [
+				13,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pacman Head down"
+		},
+		{
+			"offsets": [
+				-25,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pacman Head right"
+		},
+		{
+			"offsets": [
+				-6,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pacman Head up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				55
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "muere",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pacman_grande",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "big-pac",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		187,
+		0
+	],
+	"camera_position": [
+		150,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

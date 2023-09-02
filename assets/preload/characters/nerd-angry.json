@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				-25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nerd left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nerd up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nerd right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nerd down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nerd idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				23,
+				-1
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Nerd idle",
+			"indices": [
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				182,
+				68
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "Nerd ugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"offsets": [
+				172,
+				-1
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "whatever",
+			"indices": [],
+			"name": "Nerd whatever"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nerd_Angry_Assets",
+	"position": [
+		100,
+		247
+	],
+	"healthicon": "pac-nerd-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		141,
+		192,
+		57
+	],
+	"camera_position": [
+		-130,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

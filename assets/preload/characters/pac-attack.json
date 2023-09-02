@@ -1,0 +1,104 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				310
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pacman Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				321
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pacman Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-167,
+				282
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pacman Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				401
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pacman Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				321
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pacman Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				582
+			],
+			"anim": "dies",
+			"fps": 24,
+			"name": "Pacman Dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				186,
+				581
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Pacman Dies",
+			"indices": [
+				150,
+				151,
+				152
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pacman_Phase_1_Assets",
+	"position": [
+		90,
+		730
+	],
+	"healthicon": "pac-attack",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		212,
+		0
+	],
+	"camera_position": [
+		-80,
+		-620
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

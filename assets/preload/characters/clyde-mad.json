@@ -1,0 +1,146 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Seso Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Seso Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Seso Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				139
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Seso Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Seso Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				-18
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Seso MissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				-13
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Seso MissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				151
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Seso MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-83
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Seso MissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				357,
+				124
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Seso Mid Event",
+			"indices": []
+		},
+		{
+			"offsets": [
+				357,
+				124
+			],
+			"indices": [
+				171
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "Seso Mid Event"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Seso_Ghost_Assets",
+	"position": [
+		120,
+		380
+	],
+	"healthicon": "clyde-attack",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		106,
+		0
+	],
+	"camera_position": [
+		140,
+		80
+	],
+	"sing_duration": 5,
+	"scale": 1.1
+}

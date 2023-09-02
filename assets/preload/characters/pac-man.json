@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				107
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pacman Idle Animation"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				208,
+				90
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pacman Left Animation"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				79
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pacman Right Animation"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				217
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pacman Up Animation"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-18
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pacman Down Animation"
+		},
+		{
+			"offsets": [
+				143,
+				465
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transform",
+			"indices": [],
+			"name": "Pacman Transform Animation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pacman_Assets_v3",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pac-man",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		222,
+		6
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

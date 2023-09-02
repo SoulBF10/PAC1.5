@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				197,
+				-330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				281,
+				-332
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				161,
+				-334
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				130,
+				-255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				165,
+				-331
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/coso_asul",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "coso-azul",
+	"flip_x": true,
+	"healthbar_colors": [
+		129,
+		223,
+		102
+	],
+	"camera_position": [
+		870,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

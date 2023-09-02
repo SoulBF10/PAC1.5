@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-87,
+				-240
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "negro down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-106,
+				-182
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "negro up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-82,
+				-213
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "negro idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				84,
+				48
+			],
+			"loop": false,
+			"anim": "disparar",
+			"fps": 24,
+			"name": "negro disparacion",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-217
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "negro right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-212
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "negro left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/o",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-320,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

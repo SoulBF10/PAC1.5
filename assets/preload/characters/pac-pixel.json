@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-160,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pacman Idle"
+		},
+		{
+			"offsets": [
+				-160,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pacman Left"
+		},
+		{
+			"offsets": [
+				-160,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pacman Down"
+		},
+		{
+			"offsets": [
+				-160,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pacman Up"
+		},
+		{
+			"offsets": [
+				-160,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pacman Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Pixel_Pacman_Assets",
+	"position": [
+		-190,
+		335
+	],
+	"healthicon": "pac-attack",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		212,
+		0
+	],
+	"camera_position": [
+		-50,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}

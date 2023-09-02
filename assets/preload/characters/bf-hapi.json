@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-43
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bf hapi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-63
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf hapi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf hapi note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf hapi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				-68
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf hapi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				15
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-8
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				21
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				8
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfhapi",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-ghost",
+	"flip_x": true,
+	"healthbar_colors": [
+		129,
+		194,
+		248
+	],
+	"camera_position": [
+		-270,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1.25
+}

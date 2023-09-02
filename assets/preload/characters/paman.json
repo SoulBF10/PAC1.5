@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				233,
+				-142
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				201,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				89,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				136,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				91,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				142,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "holy",
+			"indices": [],
+			"name": "holy moly"
+		},
+		{
+			"offsets": [
+				98,
+				-147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bendicion",
+			"indices": [],
+			"name": "que bendicion"
+		},
+		{
+			"offsets": [
+				150,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "waza",
+			"indices": [],
+			"name": "waza"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/paman",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "paman-drawe",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		204,
+		34
+	],
+	"camera_position": [
+		200,
+		700
+	],
+	"sing_duration": 5.8,
+	"scale": 0.6
+}

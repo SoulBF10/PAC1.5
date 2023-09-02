@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				888,
+				726
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bf epic death bf dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				887,
+				726
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bf epic death bf death confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				886,
+				726
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "bf epic death bf death loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_epic_death",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1240,
+		-910
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

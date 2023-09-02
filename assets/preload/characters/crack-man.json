@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-151,
+				-362
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-92,
+				-347
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-111,
+				-263
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				-103,
+				-374
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "_singDOWN"
+		},
+		{
+			"offsets": [
+				-132,
+				-339
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-106,
+				-336
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "wooo",
+			"loop": false,
+			"name": "wooo"
+		},
+		{
+			"offsets": [
+				-47,
+				-343
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "motherfuckers",
+			"loop": false,
+			"name": "motherfuckers"
+		},
+		{
+			"offsets": [
+				-152,
+				-316
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "im high",
+			"loop": false,
+			"name": "im high"
+		},
+		{
+			"offsets": [
+				-148,
+				-353
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "holy shit",
+			"loop": false,
+			"name": "holy shit"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crack_man",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "crack-man",
+	"flip_x": false,
+	"healthbar_colors": [
+		174,
+		155,
+		58
+	],
+	"camera_position": [
+		-150,
+		450
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

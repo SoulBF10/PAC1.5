@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				270
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "epic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				328
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "epic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-204,
+				264
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "epic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				479
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "epic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-216,
+				415
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "epic right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				639,
+				275
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "dance",
+			"loop": true,
+			"name": "epic dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/epic_face",
+	"position": [
+		0,
+		-250
+	],
+	"healthicon": "epicface",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		212,
+		0
+	],
+	"camera_position": [
+		-220,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

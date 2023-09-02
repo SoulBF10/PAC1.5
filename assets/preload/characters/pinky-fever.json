@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-375
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pinky Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-379
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pinky Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-352
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pinky Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-336
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pinky Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-361
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pinky Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pinkyfever",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pinky-fever",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		149,
+		150
+	],
+	"camera_position": [
+		-40,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

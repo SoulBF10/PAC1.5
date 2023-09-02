@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-33,
+				-330
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nerd down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-40,
+				-255
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nerd up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				-283
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nerd right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nerd left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-288
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nerd idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-118
+			],
+			"anim": "hehey",
+			"fps": 24,
+			"name": "Nerd hehey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				-177
+			],
+			"anim": "whatever",
+			"fps": 24,
+			"name": "Nerd whatever",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-147
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "Nerd ugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nerdpacangry",
+	"position": [
+		0,
+		-80
+	],
+	"healthicon": "pac-nerd",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		143,
+		67
+	],
+	"camera_position": [
+		-10,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

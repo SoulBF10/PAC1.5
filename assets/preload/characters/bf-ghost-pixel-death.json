@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				261
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF Death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-213,
+				822
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Death Confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-276,
+				207
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Eyes Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Pixel_Gameover_Assets",
+	"position": [
+		90,
+		150
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		265,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 2.00000000000002
+}

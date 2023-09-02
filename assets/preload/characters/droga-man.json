@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-331
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pac drogado zquierda"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-114
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pac Drogao Ariba"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-336
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pac droga derecha"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				-344
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pacman SuperDroga Idle"
+		},
+		{
+			"offsets": [
+				-71,
+				-263
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pac Drogado abajo"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Droga-Man",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "crack-man-drug",
+	"flip_x": false,
+	"healthbar_colors": [
+		174,
+		155,
+		58
+	],
+	"camera_position": [
+		90,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
