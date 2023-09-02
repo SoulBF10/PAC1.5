@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Judger.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="judger down0000" x="0" y="0" width="1095" height="997" frameX="0" frameY="-119" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0001" x="0" y="0" width="1095" height="997" frameX="0" frameY="-119" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0002" x="1095" y="0" width="1085" height="972" frameX="-3" frameY="-105" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0003" x="1095" y="0" width="1085" height="972" frameX="-3" frameY="-105" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0004" x="2180" y="0" width="1085" height="972" frameX="-3" frameY="-101" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0005" x="2180" y="0" width="1085" height="972" frameX="-3" frameY="-101" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0006" x="2180" y="0" width="1085" height="972" frameX="-3" frameY="-101" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0007" x="2180" y="0" width="1085" height="972" frameX="-3" frameY="-101" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0008" x="2180" y="0" width="1085" height="972" frameX="-3" frameY="-101" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0009" x="2180" y="0" width="1085" height="972" frameX="-3" frameY="-101" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0010" x="3265" y="0" width="1079" height="970" frameX="-9" frameY="-95" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0011" x="3265" y="0" width="1079" height="970" frameX="-9" frameY="-95" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0012" x="4344" y="0" width="1041" height="868" frameX="-47" frameY="-77" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0013" x="4344" y="0" width="1041" height="868" frameX="-47" frameY="-77" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0014" x="5385" y="0" width="932" height="800" frameX="-156" frameY="-44" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0015" x="5385" y="0" width="932" height="800" frameX="-156" frameY="-44" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0016" x="6317" y="0" width="773" height="712" frameX="-305" frameY="-19" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0017" x="6317" y="0" width="773" height="712" frameX="-305" frameY="-19" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0018" x="7090" y="0" width="725" height="712" frameX="-353" frameY="-4" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0019" x="7090" y="0" width="725" height="712" frameX="-353" frameY="-4" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0020" x="0" y="997" width="725" height="712" frameX="-353" frameY="0" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0021" x="0" y="997" width="725" height="712" frameX="-353" frameY="0" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0022" x="0" y="997" width="725" height="712" frameX="-353" frameY="0" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger down0023" x="0" y="997" width="725" height="712" frameX="-353" frameY="0" frameWidth="1095" frameHeight="1116"/>
+	<SubTexture name="judger idle0000" x="725" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0001" x="725" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0002" x="1450" y="997" width="725" height="712"/>
+	<SubTexture name="judger idle0003" x="1450" y="997" width="725" height="712"/>
+	<SubTexture name="judger idle0004" x="2175" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0005" x="2175" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0006" x="2900" y="997" width="725" height="712"/>
+	<SubTexture name="judger idle0007" x="2900" y="997" width="725" height="712"/>
+	<SubTexture name="judger idle0008" x="3625" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0009" x="3625" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0010" x="4350" y="997" width="725" height="712"/>
+	<SubTexture name="judger idle0011" x="4350" y="997" width="725" height="712"/>
+	<SubTexture name="judger idle0012" x="5075" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0013" x="5075" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0014" x="5800" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0015" x="5800" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0016" x="6525" y="997" width="725" height="712"/>
+	<SubTexture name="judger idle0017" x="6525" y="997" width="725" height="712"/>
+	<SubTexture name="judger idle0018" x="7250" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0019" x="7250" y="997" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0020" x="0" y="1709" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0021" x="0" y="1709" width="725" height="711" frameX="0" frameY="0" frameWidth="725" frameHeight="712"/>
+	<SubTexture name="judger idle0022" x="725" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0023" x="725" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0024" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0025" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0026" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0027" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0028" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0029" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0030" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0031" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0032" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0033" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0034" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0035" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0036" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger idle0037" x="1450" y="1709" width="725" height="712"/>
+	<SubTexture name="judger left0000" x="2175" y="1709" width="1240" height="775" frameX="-50" frameY="0" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0001" x="2175" y="1709" width="1240" height="775" frameX="-50" frameY="0" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0002" x="3415" y="1709" width="1239" height="708" frameX="-4" frameY="-43" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0003" x="3415" y="1709" width="1239" height="708" frameX="-4" frameY="-43" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0004" x="4654" y="1709" width="1236" height="707" frameX="0" frameY="-45" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0005" x="4654" y="1709" width="1236" height="707" frameX="0" frameY="-45" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0006" x="4654" y="1709" width="1236" height="707" frameX="0" frameY="-45" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0007" x="4654" y="1709" width="1236" height="707" frameX="0" frameY="-45" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0008" x="5890" y="1709" width="1235" height="707" frameX="-1" frameY="-45" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0009" x="5890" y="1709" width="1235" height="707" frameX="-1" frameY="-45" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0010" x="0" y="2484" width="1223" height="708" frameX="-3" frameY="-46" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0011" x="0" y="2484" width="1223" height="708" frameX="-3" frameY="-46" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0012" x="1223" y="2484" width="1108" height="714" frameX="-51" frameY="-44" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0013" x="1223" y="2484" width="1108" height="714" frameX="-51" frameY="-44" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0014" x="2331" y="2484" width="888" height="705" frameX="-175" frameY="-44" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0015" x="2331" y="2484" width="888" height="705" frameX="-175" frameY="-44" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0016" x="3219" y="2484" width="726" height="713" frameX="-214" frameY="-38" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0017" x="3219" y="2484" width="726" height="713" frameX="-214" frameY="-38" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0018" x="3945" y="2484" width="725" height="713" frameX="-195" frameY="-38" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0019" x="3945" y="2484" width="725" height="713" frameX="-195" frameY="-38" frameWidth="1290" frameHeight="775"/>
+	<SubTexture name="judger left0020" x="6962" y="4408" width="725" height="713" frameX="-191" frameY="-38" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger left0021" x="6962" y="4408" width="725" height="713" frameX="-191" frameY="-38" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger left0022" x="6962" y="4408" width="725" height="713" frameX="-191" frameY="-38" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger left0023" x="6962" y="4408" width="725" height="713" frameX="-191" frameY="-38" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger right0000" x="4670" y="2484" width="1065" height="958" frameX="-31" frameY="-7" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0001" x="4670" y="2484" width="1065" height="958" frameX="-31" frameY="-7" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0002" x="5735" y="2484" width="1036" height="926" frameX="-84" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0003" x="5735" y="2484" width="1036" height="926" frameX="-84" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0004" x="6771" y="2484" width="1033" height="926" frameX="-91" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0005" x="6771" y="2484" width="1033" height="926" frameX="-91" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0006" x="6771" y="2484" width="1033" height="926" frameX="-91" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0007" x="6771" y="2484" width="1033" height="926" frameX="-91" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0008" x="0" y="3442" width="1036" height="924" frameX="-88" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0009" x="0" y="3442" width="1036" height="924" frameX="-88" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0010" x="1036" y="3442" width="1081" height="894" frameX="-48" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0011" x="1036" y="3442" width="1081" height="894" frameX="-48" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0012" x="2117" y="3442" width="1153" height="851" frameX="0" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0013" x="2117" y="3442" width="1153" height="851" frameX="0" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0014" x="3270" y="3442" width="1162" height="841" frameX="-37" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0015" x="3270" y="3442" width="1162" height="841" frameX="-37" frameY="0" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0016" x="4432" y="3442" width="1021" height="766" frameX="-323" frameY="-11" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0017" x="4432" y="3442" width="1021" height="766" frameX="-323" frameY="-11" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0018" x="5453" y="3442" width="725" height="713" frameX="-658" frameY="-11" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0019" x="5453" y="3442" width="725" height="713" frameX="-658" frameY="-11" frameWidth="1387" frameHeight="965"/>
+	<SubTexture name="judger right0020" x="6962" y="4408" width="725" height="713" frameX="-662" frameY="-11" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger right0021" x="6962" y="4408" width="725" height="713" frameX="-662" frameY="-11" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger right0022" x="6962" y="4408" width="725" height="713" frameX="-662" frameY="-11" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger right0023" x="6962" y="4408" width="725" height="713" frameX="-662" frameY="-11" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0000" x="6178" y="3442" width="1035" height="966" frameX="-75" frameY="0" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0001" x="6178" y="3442" width="1035" height="966" frameX="-75" frameY="0" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0002" x="0" y="4408" width="1067" height="908" frameX="-43" frameY="-62" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0003" x="0" y="4408" width="1067" height="908" frameX="-43" frameY="-62" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0004" x="1067" y="4408" width="1071" height="901" frameX="-39" frameY="-67" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0005" x="1067" y="4408" width="1071" height="901" frameX="-39" frameY="-67" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0006" x="1067" y="4408" width="1071" height="901" frameX="-39" frameY="-67" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0007" x="1067" y="4408" width="1071" height="901" frameX="-39" frameY="-67" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0008" x="1067" y="4408" width="1071" height="901" frameX="-39" frameY="-67" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0009" x="1067" y="4408" width="1071" height="901" frameX="-39" frameY="-67" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0010" x="2138" y="4408" width="1074" height="902" frameX="-36" frameY="-69" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0011" x="2138" y="4408" width="1074" height="902" frameX="-36" frameY="-69" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0012" x="3212" y="4408" width="1110" height="889" frameX="0" frameY="-89" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0013" x="3212" y="4408" width="1110" height="889" frameX="0" frameY="-89" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0014" x="4322" y="4408" width="1045" height="822" frameX="-65" frameY="-219" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0015" x="4322" y="4408" width="1045" height="822" frameX="-65" frameY="-219" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0016" x="5367" y="4408" width="870" height="713" frameX="-230" frameY="-374" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0017" x="5367" y="4408" width="870" height="713" frameX="-230" frameY="-374" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0018" x="6237" y="4408" width="725" height="713" frameX="-375" frameY="-398" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0019" x="6237" y="4408" width="725" height="713" frameX="-375" frameY="-398" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0020" x="6962" y="4408" width="725" height="713" frameX="-375" frameY="-403" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0021" x="6962" y="4408" width="725" height="713" frameX="-375" frameY="-403" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0022" x="6962" y="4408" width="725" height="713" frameX="-375" frameY="-403" frameWidth="1110" frameHeight="1116"/>
+	<SubTexture name="judger up0023" x="6962" y="4408" width="725" height="713" frameX="-375" frameY="-403" frameWidth="1110" frameHeight="1116"/>
+</TextureAtlas>

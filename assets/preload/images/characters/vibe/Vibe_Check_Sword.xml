@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vibe_Check_Sword.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="death confirm0000" x="0" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0001" x="443" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0002" x="886" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0003" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0004" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0005" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0006" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0007" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0008" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0009" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0010" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0011" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0012" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0013" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0014" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0015" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0016" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0017" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0018" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0019" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0020" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0021" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0022" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0023" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0024" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0025" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0026" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0027" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0028" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0029" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0030" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0031" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0032" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0033" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0034" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0035" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0036" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0037" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0038" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0039" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0040" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0041" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0042" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0043" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0044" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0045" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0046" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0047" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0048" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0049" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0050" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0051" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0052" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0053" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="death confirm0054" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0000" x="1772" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0001" x="2215" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0002" x="2658" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0003" x="2658" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0004" x="3101" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0005" x="3101" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0006" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0007" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0008" x="3544" y="0" width="435" height="488" frameX="-4" frameY="0" frameWidth="443" frameHeight="490"/>
+	<SubTexture name="deathloop0009" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0010" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0011" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0012" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0013" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0014" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0015" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0016" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0017" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0018" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0019" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0020" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0021" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0022" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0023" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="deathloop0024" x="1329" y="0" width="443" height="490"/>
+	<SubTexture name="firstDeath0000" x="3979" y="0" width="550" height="1019"/>
+	<SubTexture name="firstDeath0001" x="3979" y="0" width="550" height="1019"/>
+	<SubTexture name="firstDeath0002" x="4529" y="0" width="535" height="823" frameX="0" frameY="-195" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0003" x="4529" y="0" width="535" height="823" frameX="0" frameY="-195" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0004" x="5064" y="0" width="536" height="726" frameX="0" frameY="-293" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0005" x="5064" y="0" width="536" height="726" frameX="0" frameY="-293" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0006" x="5600" y="0" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0007" x="5600" y="0" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0008" x="6034" y="0" width="434" height="486" frameX="-102" frameY="-533" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0009" x="6034" y="0" width="434" height="486" frameX="-102" frameY="-533" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0010" x="6468" y="0" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0011" x="6468" y="0" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0012" x="6468" y="0" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0013" x="6468" y="0" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0014" x="6902" y="0" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0015" x="6902" y="0" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0016" x="7336" y="0" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0017" x="7336" y="0" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0018" x="0" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0019" x="434" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0020" x="868" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0021" x="1302" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0022" x="1736" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0023" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0024" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0025" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0026" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0027" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0028" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0029" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0030" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0031" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0032" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0033" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0034" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0035" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0036" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0037" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0038" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="firstDeath0039" x="2170" y="1019" width="434" height="488" frameX="-102" frameY="-531" frameWidth="550" frameHeight="1019"/>
+	<SubTexture name="salto0000" x="2604" y="1019" width="768" height="293" frameX="-10" frameY="-391" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0001" x="2604" y="1019" width="768" height="293" frameX="-10" frameY="-391" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0002" x="3372" y="1019" width="774" height="296" frameX="-7" frameY="-393" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0003" x="3372" y="1019" width="774" height="296" frameX="-7" frameY="-393" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0004" x="4146" y="1019" width="782" height="298" frameX="-4" frameY="-396" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0005" x="4146" y="1019" width="782" height="298" frameX="-4" frameY="-396" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0006" x="4928" y="1019" width="788" height="301" frameX="-1" frameY="-398" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0007" x="4928" y="1019" width="788" height="301" frameX="-1" frameY="-398" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0008" x="5716" y="1019" width="791" height="302" frameX="0" frameY="-399" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0009" x="6507" y="1019" width="791" height="302" frameX="0" frameY="-399" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0010" x="6507" y="1019" width="791" height="302" frameX="0" frameY="-399" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0011" x="6507" y="1019" width="791" height="302" frameX="0" frameY="-399" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0012" x="7298" y="1019" width="793" height="300" frameX="0" frameY="-399" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0013" x="0" y="1507" width="786" height="295" frameX="-10" frameY="-362" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0014" x="786" y="1507" width="738" height="479" frameX="-11" frameY="-75" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0015" x="1524" y="1507" width="695" height="466" frameX="-32" frameY="-33" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0016" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0017" x="2820" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0018" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0019" x="2820" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0020" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0021" x="2820" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0022" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0023" x="2820" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0024" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0025" x="2820" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0026" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0027" x="2820" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0028" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0029" x="2820" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0030" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0031" x="2820" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0032" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0033" x="2820" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0034" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0035" x="2820" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="salto0036" x="2219" y="1507" width="601" height="466" frameX="-63" frameY="0" frameWidth="796" frameHeight="701"/>
+	<SubTexture name="vibe check down0000" x="3421" y="1507" width="578" height="313" frameX="0" frameY="-33" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0001" x="3421" y="1507" width="578" height="313" frameX="0" frameY="-33" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0002" x="3999" y="1507" width="598" height="351" frameX="-5" frameY="-4" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0003" x="3999" y="1507" width="598" height="351" frameX="-5" frameY="-4" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0004" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0005" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0006" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0007" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0008" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0009" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0010" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0011" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0012" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0013" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0014" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0015" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0016" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0017" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0018" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0019" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down0020" x="4597" y="1507" width="601" height="357" frameX="-7" frameY="0" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down miss0000" x="3421" y="1507" width="578" height="313" frameX="0" frameY="-29" frameWidth="608" frameHeight="357"/>
+	<SubTexture name="vibe check down miss0001" x="5198" y="1507" width="578" height="313" frameX="0" frameY="-29" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0002" x="5198" y="1507" width="578" height="313" frameX="0" frameY="-29" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0003" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0004" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0005" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0006" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0007" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0008" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0009" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0010" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0011" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0012" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0013" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0014" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0015" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0016" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0017" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0018" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0019" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0020" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check down miss0021" x="5776" y="1507" width="598" height="351" frameX="-5" frameY="0" frameWidth="603" frameHeight="351"/>
+	<SubTexture name="vibe check idle dance0000" x="6374" y="1507" width="615" height="498" frameX="-3" frameY="-8" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0001" x="6374" y="1507" width="615" height="498" frameX="-3" frameY="-8" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0002" x="6989" y="1507" width="614" height="498" frameX="0" frameY="-9" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0003" x="6989" y="1507" width="614" height="498" frameX="0" frameY="-9" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0004" x="7603" y="1507" width="588" height="489" frameX="-7" frameY="0" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0005" x="7603" y="1507" width="588" height="489" frameX="-7" frameY="0" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0006" x="0" y="2005" width="554" height="470" frameX="-15" frameY="-3" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0007" x="0" y="2005" width="554" height="470" frameX="-15" frameY="-3" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0008" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0009" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0010" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0011" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0012" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0013" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0014" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0015" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0016" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0017" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0018" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0019" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check idle dance0020" x="554" y="2005" width="550" height="468" frameX="-16" frameY="-2" frameWidth="618" frameHeight="507"/>
+	<SubTexture name="vibe check left0000" x="1104" y="2005" width="493" height="410" frameX="0" frameY="0" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0001" x="1104" y="2005" width="493" height="410" frameX="0" frameY="0" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0002" x="1597" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0003" x="1597" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0004" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0005" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0006" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0007" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0008" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0009" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0010" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0011" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0012" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0013" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0014" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0015" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0016" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0017" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0018" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left0019" x="2089" y="2005" width="493" height="420" frameX="-15" frameY="-2" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left miss0000" x="1104" y="2005" width="493" height="410" frameX="0" frameY="0" frameWidth="508" frameHeight="422"/>
+	<SubTexture name="vibe check left miss0001" x="2582" y="2005" width="493" height="410" frameX="0" frameY="0" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0002" x="2582" y="2005" width="493" height="410" frameX="0" frameY="0" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0003" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0004" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0005" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0006" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0007" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0008" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0009" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0010" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0011" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0012" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0013" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0014" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0015" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0016" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0017" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0018" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0019" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check left miss0020" x="3075" y="2005" width="492" height="418" frameX="-13" frameY="-1" frameWidth="505" frameHeight="419"/>
+	<SubTexture name="vibe check pulls sword0000" x="3567" y="2005" width="525" height="386" frameX="0" frameY="-168" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0001" x="3567" y="2005" width="525" height="386" frameX="0" frameY="-168" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0002" x="4092" y="2005" width="530" height="382" frameX="-2" frameY="-172" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0003" x="4092" y="2005" width="530" height="382" frameX="-2" frameY="-172" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0004" x="3567" y="2005" width="525" height="386" frameX="0" frameY="-168" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0005" x="3567" y="2005" width="525" height="386" frameX="0" frameY="-168" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0006" x="4092" y="2005" width="530" height="382" frameX="-2" frameY="-172" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0007" x="4092" y="2005" width="530" height="382" frameX="-2" frameY="-172" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0008" x="3567" y="2005" width="525" height="386" frameX="0" frameY="-168" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0009" x="3567" y="2005" width="525" height="386" frameX="0" frameY="-168" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0010" x="4092" y="2005" width="530" height="382" frameX="-2" frameY="-172" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0011" x="4092" y="2005" width="530" height="382" frameX="-2" frameY="-172" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0012" x="3567" y="2005" width="525" height="386" frameX="0" frameY="-168" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0013" x="3567" y="2005" width="525" height="386" frameX="0" frameY="-168" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0014" x="4622" y="2005" width="530" height="382" frameX="-2" frameY="-172" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0015" x="4622" y="2005" width="530" height="382" frameX="-2" frameY="-172" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0016" x="5152" y="2005" width="480" height="510" frameX="-62" frameY="-46" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0017" x="5152" y="2005" width="480" height="510" frameX="-62" frameY="-46" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0018" x="5632" y="2005" width="469" height="552" frameX="-79" frameY="-4" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0019" x="5632" y="2005" width="469" height="552" frameX="-79" frameY="-4" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0020" x="6101" y="2005" width="472" height="556" frameX="-78" frameY="0" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0021" x="6101" y="2005" width="472" height="556" frameX="-78" frameY="0" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0022" x="6573" y="2005" width="449" height="532" frameX="-83" frameY="-24" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0023" x="6573" y="2005" width="449" height="532" frameX="-83" frameY="-24" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0024" x="7022" y="2005" width="446" height="517" frameX="-79" frameY="-39" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0025" x="7022" y="2005" width="446" height="517" frameX="-79" frameY="-39" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0026" x="7468" y="2005" width="446" height="514" frameX="-79" frameY="-42" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0027" x="7468" y="2005" width="446" height="514" frameX="-79" frameY="-42" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0028" x="7468" y="2005" width="446" height="514" frameX="-79" frameY="-42" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0029" x="7468" y="2005" width="446" height="514" frameX="-79" frameY="-42" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0030" x="7468" y="2005" width="446" height="514" frameX="-79" frameY="-42" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0031" x="7468" y="2005" width="446" height="514" frameX="-79" frameY="-42" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0032" x="7468" y="2005" width="446" height="514" frameX="-79" frameY="-42" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0033" x="7468" y="2005" width="446" height="514" frameX="-79" frameY="-42" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check pulls sword0034" x="7468" y="2005" width="446" height="514" frameX="-79" frameY="-42" frameWidth="550" frameHeight="556"/>
+	<SubTexture name="vibe check right0000" x="0" y="2561" width="564" height="413" frameX="0" frameY="-21" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0001" x="0" y="2561" width="564" height="413" frameX="0" frameY="-21" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0002" x="564" y="2561" width="565" height="440" frameX="0" frameY="-2" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0003" x="564" y="2561" width="565" height="440" frameX="0" frameY="-2" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0004" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0005" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0006" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0007" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0008" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0009" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0010" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0011" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0012" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0013" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0014" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0015" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0016" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0017" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0018" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0019" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right0020" x="1129" y="2561" width="564" height="443" frameX="0" frameY="0" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right miss0000" x="0" y="2561" width="564" height="413" frameX="0" frameY="-19" frameWidth="565" frameHeight="443"/>
+	<SubTexture name="vibe check right miss0001" x="1693" y="2561" width="564" height="413" frameX="0" frameY="-19" frameWidth="565" frameHeight="440"/>
+	<SubTexture name="vibe check right miss0002" x="1693" y="2561" width="564" height="413" frameX="0" frameY="-19" frameWidth="565" frameHeight="440"/>
+	<SubTexture name="vibe check right miss0003" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0004" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0005" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0006" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0007" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0008" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0009" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0010" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0011" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0012" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0013" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0014" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0015" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0016" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0017" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0018" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0019" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0020" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check right miss0021" x="2257" y="2561" width="565" height="440"/>
+	<SubTexture name="vibe check up0000" x="2822" y="2561" width="700" height="515"/>
+	<SubTexture name="vibe check up0001" x="2822" y="2561" width="700" height="515"/>
+	<SubTexture name="vibe check up0002" x="3522" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0003" x="3522" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0004" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0005" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0006" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0007" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0008" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0009" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0010" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0011" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0012" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0013" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0014" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0015" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0016" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0017" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0018" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0019" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up0020" x="4204" y="2561" width="681" height="490" frameX="-14" frameY="-25" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0000" x="2822" y="2561" width="700" height="515"/>
+	<SubTexture name="vibe check up miss0001" x="4885" y="2561" width="700" height="515"/>
+	<SubTexture name="vibe check up miss0002" x="4885" y="2561" width="700" height="515"/>
+	<SubTexture name="vibe check up miss0003" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0004" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0005" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0006" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0007" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0008" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0009" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0010" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0011" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0012" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0013" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0014" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0015" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0016" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0017" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0018" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0019" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+	<SubTexture name="vibe check up miss0020" x="5585" y="2561" width="682" height="495" frameX="-14" frameY="-19" frameWidth="700" frameHeight="515"/>
+</TextureAtlas>
